@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 HELLO, DIGITAL UNIVERSE
 
-<!--
-**anulmethnula/anulmethnula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anul Methnula
+Business Analyst • Information Systems • Full Stack
 
-Here are some ideas to get you started:
+[React] [Node.js] [MongoDB] [Java]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟢 status: turning business problems into clear software solutions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 PORTFOLIO
+💼 LINKEDIN
+📧 EMAIL
+💬 LET'S CONNECT
+
+PROFILE VIEWS
+FOLLOWERS
+TOTAL STARS
+LOCATION
+
+About Me
+Experience
+Capabilities
+Technology
+Projects
+Analytics
+Journey
+Contact
