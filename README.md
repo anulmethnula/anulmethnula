@@ -1,6 +1,6 @@
 <!-- ===================================================== -->
 
-<!--               ANUL METHNULA | GITHUB PROFILE         -->
+<!--           ANUL METHNULA | GITHUB PROFILE             -->
 
 <!-- ===================================================== -->
 
@@ -62,7 +62,6 @@ Currently working as an **Intern Project Manager at Supun Group of Companies**, 
 
 <table>
 <tr>
-
 <td width="15%" align="center">
 
 ## 01
@@ -80,7 +79,6 @@ Currently working as an **Intern Project Manager at Supun Group of Companies**, 
 `Stakeholder Communication` · `Team Coordination` · `Agile Practices`
 
 </td>
-
 </tr>
 </table>
 
@@ -89,12 +87,11 @@ Currently working as an **Intern Project Manager at Supun Group of Companies**, 
 # Core Capabilities
 
 <table>
-
 <tr>
 
 <td width="33%" valign="top">
 
-## Business Analysis
+### Business Analysis
 
 * Requirements Gathering
 * Requirements Documentation
@@ -108,7 +105,7 @@ Currently working as an **Intern Project Manager at Supun Group of Companies**, 
 
 <td width="33%" valign="top">
 
-## Project Management
+### Project Management
 
 * Project Planning
 * Task Allocation
@@ -122,7 +119,7 @@ Currently working as an **Intern Project Manager at Supun Group of Companies**, 
 
 <td width="33%" valign="top">
 
-## Agile & Scrum
+### Agile & Scrum
 
 * Sprint Planning
 * Daily Scrum
@@ -136,7 +133,6 @@ Currently working as an **Intern Project Manager at Supun Group of Companies**, 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -189,28 +185,26 @@ Currently working as an **Intern Project Manager at Supun Group of Companies**, 
 
 <td width="48%" valign="top">
 
-<img src="./ChatGPT%20Image%20Aug%2028%2C%202026%2C%2002_42_00%20PM.png" width="100%" alt="QR-Based E-Ticketing System"/>
+<img src="./qr.png" width="100%" alt="QR-Based E-Ticketing System"/>
 
 </td>
 
 <td width="52%" valign="top">
 
-## 01 — QR-Based E-Ticketing System
+### 01 — QR-Based E-Ticketing System
 
 **HND Final Project**
 
 <p>
-
 <img src="https://img.shields.io/badge/React_PWA-0B1220?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-0B1220?style=flat-square&logo=flutter&logoColor=54C5F8"/>
 <img src="https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=node.js&logoColor=68A063"/>
 <img src="https://img.shields.io/badge/Firebase-0B1220?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-
 </p>
 
 **Team:** 4 Members
 
-A digital ticketing solution designed around QR tickets, digital wallets, trip management and dynamic fare calculation.
+A digital ticketing solution with QR tickets, digital wallets, trip management and dynamic fare calculation.
 
 <details>
 <summary><b>View My Contribution</b></summary>
@@ -229,7 +223,6 @@ A digital ticketing solution designed around QR tickets, digital wallets, trip m
 </details>
 
 </td>
-
 </tr>
 </table>
 
@@ -242,16 +235,14 @@ A digital ticketing solution designed around QR tickets, digital wallets, trip m
 
 <td width="52%" valign="top">
 
-## 02 — Online Gas Delivery System
+### 02 — Online Gas Delivery System
 
 **HND Information Systems Group Project**
 
 <p>
-
 <img src="https://img.shields.io/badge/Figma-0B1220?style=flat-square&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Draw.io-0B1220?style=flat-square&logo=diagramsdotnet&logoColor=F08705"/>
 <img src="https://img.shields.io/badge/BPMN-0B1220?style=flat-square"/>
-
 </p>
 
 **Team:** 5 Members
@@ -278,7 +269,7 @@ A digital platform designed to support gas ordering, delivery requests, customer
 
 <td width="48%" valign="top">
 
-<img src="https://placehold.co/800x450/0B1220/22D3EE?text=ONLINE+GAS+DELIVERY+SYSTEM" width="100%" alt="Online Gas Delivery System"/>
+<img src="./gas.png" width="100%" alt="Online Gas Delivery System"/>
 
 </td>
 
@@ -294,22 +285,20 @@ A digital platform designed to support gas ordering, delivery requests, customer
 
 <td width="48%" valign="top">
 
-<img src="https://placehold.co/800x450/0B1220/22D3EE?text=QUEUE+MANAGEMENT+SYSTEM" width="100%" alt="Queue Management System"/>
+<img src="./queue.svg" width="100%" alt="Queue Management System"/>
 
 </td>
 
 <td width="52%" valign="top">
 
-## 03 — Queue Management System
+### 03 — Queue Management System
 
 **Agile & Scrum Coursework**
 
 <p>
-
 <img src="https://img.shields.io/badge/Agile-0B1220?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scrum-0B1220?style=flat-square"/>
 <img src="https://img.shields.io/badge/DevOps-0B1220?style=flat-square&logo=azuredevops&logoColor=0078D4"/>
-
 </p>
 
 A queue management concept focused on improving customer flow, ticket handling, staff operations and service efficiency.
@@ -331,7 +320,6 @@ A queue management concept focused on improving customer flow, ticket handling, 
 </details>
 
 </td>
-
 </tr>
 </table>
 
@@ -344,15 +332,13 @@ A queue management concept focused on improving customer flow, ticket handling, 
 
 <td width="52%" valign="top">
 
-## 04 — Hotel Management System
+### 04 — Hotel Management System
 
 **Diploma Final Project**
 
 <p>
-
 <img src="https://img.shields.io/badge/Web_Technologies-0B1220?style=flat-square"/>
 <img src="https://img.shields.io/badge/MySQL-0B1220?style=flat-square&logo=mysql&logoColor=4479A1"/>
-
 </p>
 
 **Team:** 4 Members
@@ -380,7 +366,7 @@ A web-based hotel management solution covering administrative operations and cus
 
 <td width="48%" valign="top">
 
-<img src="https://placehold.co/800x450/0B1220/22D3EE?text=HOTEL+MANAGEMENT+SYSTEM" width="100%" alt="Hotel Management System"/>
+<img src="./hotel.png" width="100%" alt="Hotel Management System"/>
 
 </td>
 
@@ -390,11 +376,9 @@ A web-based hotel management solution covering administrative operations and cus
 <br/>
 
 <p align="center">
-
 <a href="https://github.com/anulmethnula?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-22D3EE?style=for-the-badge&logo=github&logoColor=0B1220"/>
 </a>
-
 </p>
 
 ---
@@ -402,35 +386,19 @@ A web-based hotel management solution covering administrative operations and cus
 # GitHub Analytics
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=anulmethnula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anulmethnula&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=anulmethnula&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
 # Education
 
-<table>
-
-<tr>
-<td width="12%" align="center">
-
-## 01
-
-</td>
-
-<td>
-
-## BSc (Hons) Information Technology for Business
+### 01 — BSc (Hons) Information Technology for Business
 
 **Coventry University, United Kingdom**
 *Via NIBM, Sri Lanka*
@@ -439,19 +407,9 @@ A web-based hotel management solution covering administrative operations and cus
 
 Project Management · IT Service & Infrastructure Management · Data Science for Business · Artificial Intelligence · Cloud Security & Compliance · Operational Research · Digital Marketing
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="12%" align="center">
-
-## 02
-
-</td>
-
-<td>
-
-## Higher National Diploma in Information Systems
+### 02 — Higher National Diploma in Information Systems
 
 **National Institute of Business Management — Sri Lanka**
 
@@ -459,19 +417,9 @@ Project Management · IT Service & Infrastructure Management · Data Science for
 
 Business Analysis · Agile Development & DevOps · IT Management Practices · Software Quality Engineering · Innovation & Entrepreneurship · Advanced Database Management
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="12%" align="center">
-
-## 03
-
-</td>
-
-<td>
-
-## Diploma in Software Engineering
+### 03 — Diploma in Software Engineering
 
 **National Institute of Business Management — Sri Lanka**
 
@@ -479,39 +427,15 @@ Business Analysis · Agile Development & DevOps · IT Management Practices · So
 
 Software Engineering · Enterprise Application Development · Object-Oriented Programming · Computer Networks · Web Development
 
-</td>
-</tr>
-
-</table>
-
 ---
 
 # Certifications
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## Professional
-
-* Managing Project Teams — Alison
-* Certificate in Computer Science — NIBM
-
-</td>
-
-<td width="50%" valign="top">
-
-## Communication
-
-* British Council English Course — Level A2
-* Certificate in Spoken English for Professional Excellence — Aquinas College
-* 45-Day English Course — Diplomat's Mun
-
-</td>
-
-</tr>
-</table>
+* 🏆 Managing Project Teams — Alison
+* 💻 Certificate in Computer Science — NIBM
+* 🇬🇧 British Council English Course — Level A2
+* 🎓 Spoken English for Professional Excellence — Aquinas College
+* 📚 45-Day English Course — Diplomat's Mun
 
 ---
 
@@ -519,91 +443,35 @@ Software Engineering · Enterprise Application Development · Object-Oriented Pr
 
 ## AIESEC in NIBM
 
-<table>
-
-<tr>
-<td width="15%" align="center">
-
-### 01
-
-</td>
-
-<td>
-
-**OCVP Logistics — Elevate 26 Career Fair**
+### OCVP Logistics — Elevate 26 Career Fair
 
 Planned and managed event logistics, coordinated venue setup, managed resources and supported an event with **400+ delegates**.
 
-</td>
-</tr>
-
-<tr>
-<td width="15%" align="center">
-
-### 02
-
-</td>
-
-<td>
-
-**OCVP Partnership Development — Christmas OEM Event**
+### OCVP Partnership Development — Christmas OEM Event
 
 Managed partner outreach, stakeholder relationships and partnership deliverables.
 
-</td>
-</tr>
-
-<tr>
-<td width="15%" align="center">
-
-### 03
-
-</td>
-
-<td>
-
-**OGT B2C Team Lead — Term 26.27**
+### OGT B2C Team Lead — Term 26.27
 
 Led an attraction team, set weekly targets, monitored team performance and reported outcomes to senior leadership.
 
-</td>
-</tr>
-
-<tr>
-<td width="15%" align="center">
-
-### 04
-
-</td>
-
-<td>
-
-**OC Member — Blood Donation Drive**
+### OC Member — Blood Donation Drive
 
 Supported promotional campaigns and internal communications to increase community participation.
-
-</td>
-</tr>
-
-</table>
 
 ---
 
 # Current Direction
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Business_Analysis-0B1220?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Project_Management-0B1220?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agile_&_Scrum-0B1220?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Digital_Transformation-0B1220?style=for-the-badge"/>
-
 </p>
 
 <p align="center">
-
 <b>Business · People · Process · Technology</b>
-
 </p>
 
 ---
@@ -621,5 +489,5 @@ Supported promotional campaigns and internal communications to increase communit
 </p>
 
 <p align="center">
-  <sub>Designed & built by Anul Methnula · © 2026</sub>
+<sub>Designed & built by Anul Methnula · © 2026</sub>
 </p>
