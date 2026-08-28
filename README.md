@@ -26,7 +26,7 @@
   </a>
   &nbsp;
   <a href="https://supuncompanies.com/">
-    <img src="https://img.shields.io/badge/SUPUN_GROUP-0B1220?style=for-the-badge&logoColor=22C55E"/>
+    <img src="https://img.shields.io/badge/SUPUN_GROUP-0B1220?style=for-the-badge"/>
   </a>
 </p>
 
@@ -36,63 +36,65 @@
 
 ---
 
-## About
-
-```text
-Anul Methnula
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Role       → Intern Project Manager
-Focus      → Business Analysis & Project Management
-Education  → BSc (Hons) Information Technology for Business
-Interests  → Agile, Scrum, Digital Transformation & Technology
-Location   → Sri Lanka
-```
-
-I am an **Information Systems and IT for Business undergraduate** with an interest in **Business Analysis, Project Management, Agile methodologies, and digital transformation**.
-
-Currently working as an **Intern Project Manager at Supun Group of Companies**, gaining practical experience in project coordination, requirements, documentation, stakeholder communication, progress tracking, and project delivery.
-
-> **Goal:** Build practical digital solutions by connecting business needs, people, processes, and technology.
-
----
-
-## Experience
+# About Me
 
 <table>
 <tr>
-<td width="15%" align="center">
+<td>
 
-### 01
+### ANUL METHNULA
 
-</td>
+**Intern Project Manager · Business Analysis · Project Management**
 
-<td width="85%">
+I am an **Information Technology for Business undergraduate** interested in **Business Analysis, Project Management, Agile methodologies, and digital transformation**.
 
-### Intern Project Manager
-
-**Supun Group of Companies**
-`2026 — Present`
-
-Working on project coordination and delivery activities, including:
-
-`Project Planning` · `Progress Tracking` · `Requirements` · `Documentation`
-`Stakeholder Communication` · `Team Coordination` · `Agile Practices`
+Currently working as an **Intern Project Manager at Supun Group of Companies**, gaining practical experience in project coordination, requirements, documentation, stakeholder communication, progress tracking, and project delivery.
 
 </td>
 </tr>
 </table>
 
+> **Goal:** Connecting business needs, people, processes, and technology to create practical digital solutions.
+
 ---
 
-## Core Capabilities
+# Experience
 
 <table>
 <tr>
 
+<td width="15%" align="center">
+
+## 01
+
+</td>
+
+<td width="85%">
+
+## Intern Project Manager
+
+**Supun Group of Companies**
+`2026 — Present`
+
+`Project Planning` · `Progress Tracking` · `Requirements` · `Documentation`
+`Stakeholder Communication` · `Team Coordination` · `Agile Practices`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Core Capabilities
+
+<table>
+
+<tr>
+
 <td width="33%" valign="top">
 
-### Business Analysis
+## Business Analysis
 
 * Requirements Gathering
 * Requirements Documentation
@@ -106,7 +108,7 @@ Working on project coordination and delivery activities, including:
 
 <td width="33%" valign="top">
 
-### Project Management
+## Project Management
 
 * Project Planning
 * Task Allocation
@@ -120,7 +122,7 @@ Working on project coordination and delivery activities, including:
 
 <td width="33%" valign="top">
 
-### Agile & Scrum
+## Agile & Scrum
 
 * Sprint Planning
 * Daily Scrum
@@ -134,11 +136,12 @@ Working on project coordination and delivery activities, including:
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## Tools & Technology
+# Tools & Technology
 
 <p align="center">
 
@@ -174,7 +177,7 @@ Working on project coordination and delivery activities, including:
 # Selected Projects
 
 <p align="center">
-  <i>Projects combining business analysis, project coordination, Agile practices and software development.</i>
+  <i>Business Analysis · Project Coordination · Agile · Software Solutions</i>
 </p>
 
 <br/>
@@ -186,9 +189,7 @@ Working on project coordination and delivery activities, including:
 
 <td width="48%" valign="top">
 
-<a href="#">
-<img src="./assets/projects/qr-ticketing.gif" width="100%" alt="QR-Based E-Ticketing System"/>
-</a>
+<img src="./ChatGPT%20Image%20Aug%2028%2C%202026%2C%2002_42_00%20PM.png" width="100%" alt="QR-Based E-Ticketing System"/>
 
 </td>
 
@@ -212,7 +213,7 @@ Working on project coordination and delivery activities, including:
 A digital ticketing solution designed around QR tickets, digital wallets, trip management and dynamic fare calculation.
 
 <details>
-<summary><b>My contribution</b></summary>
+<summary><b>View My Contribution</b></summary>
 
 <br/>
 
@@ -258,7 +259,7 @@ A digital ticketing solution designed around QR tickets, digital wallets, trip m
 A digital platform designed to support gas ordering, delivery requests, customer interaction and delivery management.
 
 <details>
-<summary><b>My contribution</b></summary>
+<summary><b>View My Contribution</b></summary>
 
 <br/>
 
@@ -277,9 +278,7 @@ A digital platform designed to support gas ordering, delivery requests, customer
 
 <td width="48%" valign="top">
 
-<a href="#">
-<img src="./assets/projects/gas-delivery.gif" width="100%" alt="Online Gas Delivery System"/>
-</a>
+<img src="https://placehold.co/800x450/0B1220/22D3EE?text=ONLINE+GAS+DELIVERY+SYSTEM" width="100%" alt="Online Gas Delivery System"/>
 
 </td>
 
@@ -295,9 +294,7 @@ A digital platform designed to support gas ordering, delivery requests, customer
 
 <td width="48%" valign="top">
 
-<a href="#">
-<img src="./assets/projects/queue-system.gif" width="100%" alt="Queue Management System"/>
-</a>
+<img src="https://placehold.co/800x450/0B1220/22D3EE?text=QUEUE+MANAGEMENT+SYSTEM" width="100%" alt="Queue Management System"/>
 
 </td>
 
@@ -318,7 +315,7 @@ A digital platform designed to support gas ordering, delivery requests, customer
 A queue management concept focused on improving customer flow, ticket handling, staff operations and service efficiency.
 
 <details>
-<summary><b>My contribution</b></summary>
+<summary><b>View My Contribution</b></summary>
 
 <br/>
 
@@ -363,7 +360,7 @@ A queue management concept focused on improving customer flow, ticket handling, 
 A web-based hotel management solution covering administrative operations and customer-facing functionality.
 
 <details>
-<summary><b>My contribution</b></summary>
+<summary><b>View My Contribution</b></summary>
 
 <br/>
 
@@ -383,9 +380,7 @@ A web-based hotel management solution covering administrative operations and cus
 
 <td width="48%" valign="top">
 
-<a href="#">
-<img src="./assets/projects/hotel-system.gif" width="100%" alt="Hotel Management System"/>
-</a>
+<img src="https://placehold.co/800x450/0B1220/22D3EE?text=HOTEL+MANAGEMENT+SYSTEM" width="100%" alt="Hotel Management System"/>
 
 </td>
 
@@ -398,7 +393,6 @@ A web-based hotel management solution covering administrative operations and cus
 
 <a href="https://github.com/anulmethnula?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-22D3EE?style=for-the-badge&logo=github&logoColor=0B1220"/>
-
 </a>
 
 </p>
@@ -428,15 +422,15 @@ A web-based hotel management solution covering administrative operations and cus
 <table>
 
 <tr>
-<td width="10%" align="center">
+<td width="12%" align="center">
 
-### 01
+## 01
 
 </td>
 
 <td>
 
-### BSc (Hons) Information Technology for Business
+## BSc (Hons) Information Technology for Business
 
 **Coventry University, United Kingdom**
 *Via NIBM, Sri Lanka*
@@ -449,15 +443,15 @@ Project Management · IT Service & Infrastructure Management · Data Science for
 </tr>
 
 <tr>
-<td width="10%" align="center">
+<td width="12%" align="center">
 
-### 02
+## 02
 
 </td>
 
 <td>
 
-### Higher National Diploma in Information Systems
+## Higher National Diploma in Information Systems
 
 **National Institute of Business Management — Sri Lanka**
 
@@ -469,15 +463,15 @@ Business Analysis · Agile Development & DevOps · IT Management Practices · So
 </tr>
 
 <tr>
-<td width="10%" align="center">
+<td width="12%" align="center">
 
-### 03
+## 03
 
 </td>
 
 <td>
 
-### Diploma in Software Engineering
+## Diploma in Software Engineering
 
 **National Institute of Business Management — Sri Lanka**
 
@@ -499,7 +493,7 @@ Software Engineering · Enterprise Application Development · Object-Oriented Pr
 
 <td width="50%" valign="top">
 
-### Professional
+## Professional
 
 * Managing Project Teams — Alison
 * Certificate in Computer Science — NIBM
@@ -508,10 +502,10 @@ Software Engineering · Enterprise Application Development · Object-Oriented Pr
 
 <td width="50%" valign="top">
 
-### Communication
+## Communication
 
 * British Council English Course — Level A2
-* Spoken English for Professional Excellence — Aquinas College
+* Certificate in Spoken English for Professional Excellence — Aquinas College
 * 45-Day English Course — Diplomat's Mun
 
 </td>
@@ -523,14 +517,14 @@ Software Engineering · Enterprise Application Development · Object-Oriented Pr
 
 # Leadership & Community
 
-### AIESEC in NIBM
+## AIESEC in NIBM
 
 <table>
 
 <tr>
 <td width="15%" align="center">
 
-**01**
+### 01
 
 </td>
 
@@ -538,7 +532,7 @@ Software Engineering · Enterprise Application Development · Object-Oriented Pr
 
 **OCVP Logistics — Elevate 26 Career Fair**
 
-Planned event logistics, coordinated venue setup, managed resources and supported an event with **400+ delegates**.
+Planned and managed event logistics, coordinated venue setup, managed resources and supported an event with **400+ delegates**.
 
 </td>
 </tr>
@@ -546,7 +540,7 @@ Planned event logistics, coordinated venue setup, managed resources and supporte
 <tr>
 <td width="15%" align="center">
 
-**02**
+### 02
 
 </td>
 
@@ -562,7 +556,7 @@ Managed partner outreach, stakeholder relationships and partnership deliverables
 <tr>
 <td width="15%" align="center">
 
-**03**
+### 03
 
 </td>
 
@@ -570,7 +564,7 @@ Managed partner outreach, stakeholder relationships and partnership deliverables
 
 **OGT B2C Team Lead — Term 26.27**
 
-Led an attraction team, set weekly targets, monitored performance and reported outcomes to senior leadership.
+Led an attraction team, set weekly targets, monitored team performance and reported outcomes to senior leadership.
 
 </td>
 </tr>
@@ -578,7 +572,7 @@ Led an attraction team, set weekly targets, monitored performance and reported o
 <tr>
 <td width="15%" align="center">
 
-**04**
+### 04
 
 </td>
 
@@ -599,7 +593,7 @@ Supported promotional campaigns and internal communications to increase communit
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Business_Analysis-0B1220?style=for-the-badge&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Business_Analysis-0B1220?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Project_Management-0B1220?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agile_&_Scrum-0B1220?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Digital_Transformation-0B1220?style=for-the-badge"/>
@@ -608,7 +602,7 @@ Supported promotional campaigns and internal communications to increase communit
 
 <p align="center">
 
-Building experience at the intersection of <b>Business · People · Process · Technology</b>
+<b>Business · People · Process · Technology</b>
 
 </p>
 
