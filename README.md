@@ -8,24 +8,26 @@
   <img src="./banner.svg" width="100%" alt="Anul Methnula — Business Analysis & Project Management Banner"/>
 </p>
 
+<!-- CONTACT BAR -->
+
 <p align="center">
   <a href="https://my-protofilo-five.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/anul-methnula/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:anulmethnula@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/anulmethnula">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anulmethnula&label=Profile%20Views&color=30363D&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/anulmethnula?label=Followers&style=flat-square&color=30363D" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=anulmethnula&label=PROFILE+VIEWS&color=30363D&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/anulmethnula?label=FOLLOWERS&style=flat-square&color=30363D" alt="Followers"/>
 </p>
 
 <p align="center">
@@ -35,79 +37,91 @@
   <a href="#tools--technology">Tools</a> ·
   <a href="#selected-projects">Projects</a> ·
   <a href="#education">Education</a> ·
+  <a href="#certifications">Certifications</a> ·
   <a href="#leadership--community">Leadership</a>
 </p>
 
 About Me
 
-<table>
+<table width="100%">
 <tr>
 <td width="68%" valign="top">
 
-Hi, I'm Anul
+<h3>Hi, I'm Anul</h3>
 
-I am an Information Technology for Business undergraduate focused on Business Analysis, Project Management, Agile delivery and digital transformation.
+<p>
+I am an <strong>Information Technology for Business undergraduate</strong> focused on
+<strong>Business Analysis, Project Management, Agile delivery and digital transformation</strong>.
+</p>
 
-I enjoy taking an unclear business problem and turning it into a clear requirement, practical plan and coordinated solution.
+<p>
+I enjoy taking an unclear business problem and turning it into a
+<strong>clear requirement, practical plan and coordinated solution</strong>.
+</p>
 
-Currently gaining hands-on experience at Supun Group of Companies, working around project coordination, requirements, documentation, stakeholder communication, process understanding and progress tracking.
+<p>
+Currently gaining hands-on experience at <strong>Supun Group of Companies</strong>,
+working around project coordination, requirements, documentation,
+stakeholder communication, process understanding and progress tracking.
+</p>
 
 </td>
+
 <td width="32%" valign="top">
 
-Current Focus
+<h3>Current Focus</h3>
 
-Project Coordination
-
-Business Analysis
-
-Stakeholder Communication
-
-Requirements & Documentation
-
-Agile & Scrum
-
-Process Improvement
+<p>◆ Project Coordination</p>
+<p>◆ Business Analysis</p>
+<p>◆ Stakeholder Communication</p>
+<p>◆ Requirements &amp; Documentation</p>
+<p>◆ Agile &amp; Scrum</p>
+<p>◆ Process Improvement</p>
 
 </td>
 </tr>
 </table>
 
-My approach: Understand the problem → define what matters → align the people → support delivery → improve the result.
+<br/>
+
+<table width="100%">
+<tr>
+<td>
+<strong>Working approach</strong><br/><br/>
+Understand the problem → define what matters → align the people → support delivery → improve the result.
+</td>
+</tr>
+</table>
 
 Experience
 
-<table>
+<table width="100%">
 <tr>
-<td width="13%" align="center" valign="top">
-
-01
-
+<td width="18%" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/2026-PRESENT-238636?style=for-the-badge" alt="2026 Present"/>
 </td>
-<td width="87%" valign="top">
 
-Intern Project Manager
+<td width="82%" valign="top">
 
-Supun Group of Companies
-2026 — Present
+<h3>Intern Project Manager</h3>
+<p><strong>Supun Group of Companies</strong></p>
 
-<img src="https://img.shields.io/badge/Project_Planning-2F81F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Requirements-8957E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Documentation-DB61A2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stakeholders-D29922?style=flat-square"/>
-<img src="https://img.shields.io/badge/Progress_Tracking-238636?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/Project_Planning-2F81F7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Requirements-8957E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Documentation-DB61A2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stakeholders-D29922?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Progress_Tracking-238636?style=flat-square"/>
+</p>
 
-Support project planning and coordination.
-
-Gather and organize project and business requirements.
-
-Maintain clear project documentation.
-
-Communicate with stakeholders and team members.
-
-Track tasks, milestones, issues and progress.
-
-Support business process improvement and digital initiatives.
+<ul>
+  <li>Support project planning and coordination.</li>
+  <li>Gather and organize project and business requirements.</li>
+  <li>Maintain clear project documentation.</li>
+  <li>Communicate with stakeholders and team members.</li>
+  <li>Track tasks, milestones, issues and progress.</li>
+  <li>Support business process improvement and digital initiatives.</li>
+</ul>
 
 </td>
 </tr>
@@ -115,68 +129,60 @@ Support business process improvement and digital initiatives.
 
 Capabilities
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="33%" valign="top">
 
-Business Analysis
+<p>
+<img src="https://img.shields.io/badge/BUSINESS_ANALYSIS-2F81F7?style=for-the-badge" alt="Business Analysis"/>
+</p>
 
-Requirements Gathering
-
-Requirements Documentation
-
-Stakeholder Analysis
-
-Business Process Analysis
-
-Process Improvement
-
-UML & BPMN
-
-SWOT & PESTEL
+<ul>
+  <li>Requirements Gathering</li>
+  <li>Requirements Documentation</li>
+  <li>Stakeholder Analysis</li>
+  <li>Business Process Analysis</li>
+  <li>Process Improvement</li>
+  <li>UML &amp; BPMN</li>
+  <li>SWOT &amp; PESTEL</li>
+</ul>
 
 </td>
 
 <td width="33%" valign="top">
 
-Project Management
+<p>
+<img src="https://img.shields.io/badge/PROJECT_MANAGEMENT-8957E5?style=for-the-badge" alt="Project Management"/>
+</p>
 
-Project Planning
-
-Task Allocation
-
-Milestone Tracking
-
-Scope Management
-
-Risk & Issue Tracking
-
-Progress Reporting
-
-Team Coordination
+<ul>
+  <li>Project Planning</li>
+  <li>Task Allocation</li>
+  <li>Milestone Tracking</li>
+  <li>Scope Management</li>
+  <li>Risk &amp; Issue Tracking</li>
+  <li>Progress Reporting</li>
+  <li>Team Coordination</li>
+</ul>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
-Agile & Scrum
+<p>
+<img src="https://img.shields.io/badge/AGILE_&_SCRUM-D29922?style=for-the-badge" alt="Agile Scrum"/>
+</p>
 
-Sprint Planning
-
-Daily Scrum
-
-Sprint Reviews
-
-Retrospectives
-
-Backlog Management
-
-User Stories
-
-Planning Poker
-
-Kanban
+<ul>
+  <li>Sprint Planning</li>
+  <li>Daily Scrum</li>
+  <li>Sprint Reviews</li>
+  <li>Retrospectives</li>
+  <li>Backlog Management</li>
+  <li>User Stories</li>
+  <li>Planning Poker &amp; Kanban</li>
+</ul>
 
 </td>
 
@@ -185,71 +191,107 @@ Kanban
 
 How I Work
 
-Discover → Define → Plan → Deliver → Improve
+<table width="100%">
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/01-DISCOVER-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02-DEFINE-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/03-PLAN-8957E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/04-DELIVER-238636?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/05-IMPROVE-D29922?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
-Business Need
-     |
-     v
-Understand the Problem
-     |
-     v
-Gather and Analyse Requirements
-     |
-     v
-Align Stakeholders
-     |
-     v
-Plan and Coordinate Delivery
-     |
-     v
-Validate, Learn and Improve
+<br/>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Business Need</strong></td>
+<td width="5%" align="center">→</td>
+<td width="20%" align="center"><strong>Requirements</strong></td>
+<td width="5%" align="center">→</td>
+<td width="20%" align="center"><strong>Stakeholder Alignment</strong></td>
+<td width="5%" align="center">→</td>
+<td width="20%" align="center"><strong>Delivery</strong></td>
+<td width="5%" align="center">→</td>
+<td width="20%" align="center"><strong>Improvement</strong></td>
+</tr>
+</table>
 
 Tools & Technology
 
-Project & Business Tools
+<table width="100%">
+<tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0C66E4?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_Project-107C10?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<td width="50%" valign="top">
+
+<h3>Project &amp; Business Tools</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0C66E4?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Project-107C10?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-Design & Modeling
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UML-6E40C9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BPMN-1F6FEB?style=for-the-badge"/>
+<td width="50%" valign="top">
+
+<h3>Design &amp; Modeling</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/UML-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BPMN-1F6FEB?style=for-the-badge"/>
 </p>
 
-Technical Foundation
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+<h3>Technical Foundation</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 Selected Projects
 
 <p align="center">
-  <i>Projects where I worked across planning, analysis, coordination and solution delivery.</i>
+  <strong>Planning · Analysis · Coordination · Delivery</strong>
 </p>
-
-<br/>
 
 <!-- ================= PROJECT 01 ================= -->
 
-<table>
+<table width="100%">
 <tr>
+<td colspan="2">
+  <img src="https://img.shields.io/badge/PROJECT_01-QR_BASED_E--TICKETING_SYSTEM-2F81F7?style=for-the-badge" alt="Project 01 QR Based E Ticketing"/>
+</td>
+</tr>
 
-<td width="47%" valign="top" align="center">
+<tr>
+<td width="44%" valign="middle" align="center">
 
 <a href="https://github.com/anulmethnula/anulmethnula/blob/main/qr.png">
   <img
@@ -261,43 +303,39 @@ Selected Projects
 
 </td>
 
-<td width="53%" valign="top">
+<td width="56%" valign="top">
 
-01 — QR-Based E-Ticketing System
+<h3>QR-Based E-Ticketing System</h3>
 
-HND Final Project
+<p>
+<strong>HND Final Project</strong><br/>
+<strong>Team:</strong> 4 Members
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/React_PWA-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827"/>
+</p>
 
-Team: 4 Members
+<p>
+A digital ticketing solution supporting <strong>QR tickets, digital wallets,
+trip management and dynamic fare calculation</strong>.
+</p>
 
-A digital ticketing solution supporting QR tickets, digital wallets, trip management and dynamic fare calculation.
+<p><strong>My role in the project</strong></p>
 
-<details>
-<summary><b>View My Contribution</b></summary>
-
-<br/>
-
-Coordinated the complete project lifecycle.
-
-Managed requirements gathering and project scope.
-
-Facilitated Sprint Planning and Scrum ceremonies.
-
-Tracked milestones and team progress.
-
-Managed project documentation.
-
-Produced UML diagrams and supported system architecture.
-
-Coordinated QR trip management and digital wallet features.
-
-Worked on dynamic fare calculation functionality.
-
-</details>
+<ul>
+  <li>Coordinated the complete project lifecycle.</li>
+  <li>Managed requirements gathering and project scope.</li>
+  <li>Facilitated Sprint Planning and Scrum ceremonies.</li>
+  <li>Tracked milestones and team progress.</li>
+  <li>Managed project documentation.</li>
+  <li>Produced UML diagrams and supported system architecture.</li>
+  <li>Coordinated QR trip management and digital wallet features.</li>
+  <li>Worked on dynamic fare calculation functionality.</li>
+</ul>
 
 </td>
 </tr>
@@ -307,49 +345,50 @@ Worked on dynamic fare calculation functionality.
 
 <!-- ================= PROJECT 02 ================= -->
 
-<table>
+<table width="100%">
 <tr>
+<td colspan="2">
+  <img src="https://img.shields.io/badge/PROJECT_02-ONLINE_GAS_DELIVERY_SYSTEM-F08705?style=for-the-badge" alt="Project 02 Gas Delivery"/>
+</td>
+</tr>
 
-<td width="53%" valign="top">
+<tr>
+<td width="56%" valign="top">
 
-02 — Online Gas Delivery System
+<h3>Online Gas Delivery System</h3>
 
-HND Information Systems Group Project
+<p>
+<strong>HND Information Systems Group Project</strong><br/>
+<strong>Team:</strong> 5 Members
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/BPMN-1F6FEB?style=flat-square"/>
+</p>
 
-Team: 5 Members
+<p>
+A digital platform for <strong>gas ordering, delivery requests,
+customer interaction and delivery management</strong>.
+</p>
 
-A digital platform for gas ordering, delivery requests, customer interaction and delivery management.
+<p><strong>My role in the project</strong></p>
 
-<details>
-<summary><b>View My Contribution</b></summary>
-
-<br/>
-
-Coordinated project tasks and timelines.
-
-Managed task allocation.
-
-Facilitated requirements workshops.
-
-Supported stakeholder communication.
-
-Converted business needs into system requirements.
-
-Created BPMN process diagrams.
-
-Designed Figma wireframes.
-
-Maintained project documentation.
-
-</details>
+<ul>
+  <li>Coordinated project tasks and timelines.</li>
+  <li>Managed task allocation.</li>
+  <li>Facilitated requirements workshops.</li>
+  <li>Supported stakeholder communication.</li>
+  <li>Converted business needs into system requirements.</li>
+  <li>Created BPMN process diagrams.</li>
+  <li>Designed Figma wireframes.</li>
+  <li>Maintained project documentation.</li>
+</ul>
 
 </td>
 
-<td width="47%" valign="top" align="center">
+<td width="44%" valign="middle" align="center">
 
 <img
 src="https://raw.githubusercontent.com/anulmethnula/anulmethnula/main/gas.png"
@@ -365,46 +404,61 @@ alt="Online Gas Delivery System"
 
 <!-- ================= PROJECT 03 ================= -->
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td>
+  <img src="https://img.shields.io/badge/PROJECT_03-QUEUE_MANAGEMENT_SYSTEM-8957E5?style=for-the-badge" alt="Project 03 Queue Management"/>
+</td>
+</tr>
 
-03 — Queue Management System
+<tr>
+<td valign="top">
 
-Agile & Scrum Coursework
+<h3>Queue Management System</h3>
 
+<p><strong>Agile &amp; Scrum Coursework</strong></p>
+
+<p>
 <img src="https://img.shields.io/badge/Agile-D946EF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scrum-F59E0B?style=flat-square"/>
 <img src="https://img.shields.io/badge/DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white"/>
 <img src="https://img.shields.io/badge/User_Stories-8957E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Kanban-238636?style=flat-square"/>
+</p>
 
-A queue-management concept focused on improving customer flow, ticket handling, staff operations and service efficiency.
+<p>
+A queue-management concept focused on improving <strong>customer flow,
+ticket handling, staff operations and service efficiency</strong>.
+</p>
 
-Process: Customer → Take Ticket → Join Queue → Staff Service → Complete
-
-<details>
-<summary><b>View My Contribution</b></summary>
+<table width="100%">
+<tr>
+<td align="center"><strong>Customer</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>Take Ticket</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>Join Queue</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>Staff Service</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>Complete</strong></td>
+</tr>
+</table>
 
 <br/>
 
-Managed the Sprint Backlog.
+<p><strong>My role in the project</strong></p>
 
-Coordinated Daily Scrum activities.
-
-Facilitated Planning Poker sessions.
-
-Worked with EPICs and MRFs.
-
-Created and managed User Stories.
-
-Tracked team progress.
-
-Applied Agile and Scrum practices.
-
-Worked with DevOps workflow concepts.
-
-</details>
+<ul>
+  <li>Managed the Sprint Backlog.</li>
+  <li>Coordinated Daily Scrum activities.</li>
+  <li>Facilitated Planning Poker sessions.</li>
+  <li>Worked with EPICs and MRFs.</li>
+  <li>Created and managed User Stories.</li>
+  <li>Tracked team progress.</li>
+  <li>Applied Agile and Scrum practices.</li>
+  <li>Worked with DevOps workflow concepts.</li>
+</ul>
 
 </td>
 </tr>
@@ -414,45 +468,48 @@ Worked with DevOps workflow concepts.
 
 <!-- ================= PROJECT 04 ================= -->
 
-<table>
+<table width="100%">
 <tr>
+<td colspan="2">
+  <img src="https://img.shields.io/badge/PROJECT_04-HOTEL_MANAGEMENT_SYSTEM-238636?style=for-the-badge" alt="Project 04 Hotel Management"/>
+</td>
+</tr>
 
-<td width="53%" valign="top">
+<tr>
+<td width="56%" valign="top">
 
-04 — Hotel Management System
+<h3>Hotel Management System</h3>
 
-Diploma Final Project
+<p>
+<strong>Diploma Final Project</strong><br/>
+<strong>Team:</strong> 4 Members
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/Web_Technologies-8957E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/UML-2F81F7?style=flat-square"/>
+</p>
 
-Team: 4 Members
+<p>
+A web-based hotel management solution covering
+<strong>administrative operations and customer-facing functionality</strong>.
+</p>
 
-A web-based hotel management solution covering administrative operations and customer-facing functionality.
+<p><strong>My role in the project</strong></p>
 
-<details>
-<summary><b>View My Contribution</b></summary>
-
-<br/>
-
-Managed project planning and task distribution.
-
-Coordinated project timelines.
-
-Managed project documentation.
-
-Created Use Case, Class, Sequence and ER diagrams.
-
-Coordinated admin and customer-facing functionality.
-
-Delivered the project within the planned deadline.
-
-</details>
+<ul>
+  <li>Managed project planning and task distribution.</li>
+  <li>Coordinated project timelines.</li>
+  <li>Managed project documentation.</li>
+  <li>Created Use Case, Class, Sequence and ER diagrams.</li>
+  <li>Coordinated admin and customer-facing functionality.</li>
+  <li>Delivered the project within the planned deadline.</li>
+</ul>
 
 </td>
 
-<td width="47%" valign="top" align="center">
+<td width="44%" valign="middle" align="center">
 
 <img
 src="https://raw.githubusercontent.com/anulmethnula/anulmethnula/main/hotel.png"
@@ -468,67 +525,211 @@ alt="Hotel Management System"
 
 <p align="center">
   <a href="https://github.com/anulmethnula?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 Education
 
-BSc (Hons) Information Technology for Business
+<table width="100%">
+<tr>
+<td width="17%" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/01-DEGREE-2F81F7?style=for-the-badge"/>
+</td>
+<td width="83%" valign="top">
 
-Coventry University, United Kingdom
-Via NIBM, Sri Lanka
-2026 — Present
+<h3>BSc (Hons) Information Technology for Business</h3>
+<p>
+<strong>Coventry University, United Kingdom</strong><br/>
+Via NIBM, Sri Lanka<br/>
+<code>2026 — Present</code>
+</p>
 
-Project Management · IT Service & Infrastructure Management · Data Science for Business · Artificial Intelligence · Cloud Security & Compliance · Operational Research · Digital Marketing
+<p>
+<strong>Key areas:</strong>
+Project Management · IT Service &amp; Infrastructure Management ·
+Data Science for Business · Artificial Intelligence ·
+Cloud Security &amp; Compliance · Operational Research · Digital Marketing
+</p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-Higher National Diploma in Information Systems
+<table width="100%">
+<tr>
+<td width="17%" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/02-HND-8957E5?style=for-the-badge"/>
+</td>
+<td width="83%" valign="top">
 
-National Institute of Business Management — Sri Lanka
-April 2025 — April 2026
+<h3>Higher National Diploma in Information Systems</h3>
+<p>
+<strong>National Institute of Business Management — Sri Lanka</strong><br/>
+<code>April 2025 — April 2026</code>
+</p>
 
-Business Analysis · Agile Development & DevOps · IT Management Practices · Software Quality Engineering · Innovation & Entrepreneurship · Advanced Database Management
+<p>
+<strong>Key areas:</strong>
+Business Analysis · Agile Development &amp; DevOps · IT Management Practices ·
+Software Quality Engineering · Innovation &amp; Entrepreneurship ·
+Advanced Database Management
+</p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-Diploma in Software Engineering
+<table width="100%">
+<tr>
+<td width="17%" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/03-DIPLOMA-238636?style=for-the-badge"/>
+</td>
+<td width="83%" valign="top">
 
-National Institute of Business Management — Sri Lanka
-September 2023 — September 2024
+<h3>Diploma in Software Engineering</h3>
+<p>
+<strong>National Institute of Business Management — Sri Lanka</strong><br/>
+<code>September 2023 — September 2024</code>
+</p>
 
-Software Engineering · Enterprise Application Development · Object-Oriented Programming · Computer Networks · Web Development
+<p>
+<strong>Key areas:</strong>
+Software Engineering · Enterprise Application Development ·
+Object-Oriented Programming · Computer Networks · Web Development
+</p>
+
+</td>
+</tr>
+</table>
 
 Certifications
 
-Managing Project Teams — Alison
+<table width="100%">
+<tr>
 
-Certificate in Computer Science — NIBM
+<td width="50%" valign="top">
 
-English Course — Level A2 — British Council
+<p>
+<img src="https://img.shields.io/badge/PROJECT_MANAGEMENT-CERTIFICATE-2F81F7?style=flat-square"/>
+</p>
 
-Spoken English for Professional Excellence — Aquinas College
+<strong>Managing Project Teams</strong><br/>
+Alison
 
-45-Day English Course — Diplomat's Mun
+<br/><br/>
+
+<p>
+<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-CERTIFICATE-8957E5?style=flat-square"/>
+</p>
+
+<strong>Certificate in Computer Science</strong><br/>
+NIBM
+
+</td>
+
+<td width="50%" valign="top">
+
+<p>
+<img src="https://img.shields.io/badge/ENGLISH-PROFESSIONAL_DEVELOPMENT-D29922?style=flat-square"/>
+</p>
+
+<strong>English Course — Level A2</strong><br/>
+British Council
+
+<br/><br/>
+
+<strong>Spoken English for Professional Excellence</strong><br/>
+Aquinas College
+
+<br/><br/>
+
+<strong>45-Day English Course</strong><br/>
+Diplomat's Mun
+
+</td>
+
+</tr>
+</table>
 
 Leadership & Community
 
-AIESEC in NIBM
+<table width="100%">
+<tr>
 
-OCVP Logistics — Elevate 26 Career Fair
-Planned and managed event logistics, coordinated venue setup, managed resources and supported an event with 400+ delegates.
+<td width="50%" valign="top">
 
-OCVP Partnership Development — Christmas OEM Event
+<p>
+<img src="https://img.shields.io/badge/AIESEC-LOGISTICS-037EF3?style=for-the-badge&logo=aiesec&logoColor=white"/>
+</p>
+
+<h3>OCVP Logistics — Elevate 26 Career Fair</h3>
+
+<p>
+Planned and managed event logistics, coordinated venue setup,
+managed resources and supported an event with <strong>400+ delegates</strong>.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p>
+<img src="https://img.shields.io/badge/AIESEC-PARTNERSHIPS-8957E5?style=for-the-badge&logo=aiesec&logoColor=white"/>
+</p>
+
+<h3>OCVP Partnership Development</h3>
+
+<p><strong>Christmas OEM Event</strong></p>
+
+<p>
 Managed partner outreach, stakeholder relationships and partnership deliverables.
+</p>
 
-OGT B2C Team Lead — Term 26.27
-Led an attraction team, set weekly targets, monitored team performance and reported outcomes to senior leadership.
+</td>
 
-OC Member — Blood Donation Drive
-Supported promotional campaigns and internal communications to increase community participation.
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<p>
+<img src="https://img.shields.io/badge/AIESEC-TEAM_LEAD-D29922?style=for-the-badge&logo=aiesec&logoColor=white"/>
+</p>
+
+<h3>OGT B2C Team Lead — Term 26.27</h3>
+
+<p>
+Led an attraction team, set weekly targets, monitored team performance
+and reported outcomes to senior leadership.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p>
+<img src="https://img.shields.io/badge/AIESEC-COMMUNITY-238636?style=for-the-badge&logo=aiesec&logoColor=white"/>
+</p>
+
+<h3>OC Member — Blood Donation Drive</h3>
+
+<p>
+Supported promotional campaigns and internal communications
+to increase community participation.
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <sub>Business Analysis · Project Management · Agile Delivery</sub><br/>
+  <strong>Business Analysis · Project Management · Agile Delivery</strong><br/><br/>
   <sub>© 2026 Anul Methnula</sub>
 </p>
