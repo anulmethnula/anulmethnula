@@ -98,7 +98,13 @@ Experience
 <table width="100%">
 <tr>
 <td width="18%" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/2026-PRESENT-238636?style=for-the-badge" alt="2026 Present"/>
+  <img
+    src="https://raw.githubusercontent.com/anulmethnula/anulmethnula/main/supun.png"
+    width="120"
+    alt="Supun Group of Companies Logo"
+  />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/2026-PRESENT-238636?style=flat-square" alt="2026 Present"/>
 </td>
 
 <td width="82%" valign="top">
@@ -406,13 +412,24 @@ alt="Online Gas Delivery System"
 
 <table width="100%">
 <tr>
-<td>
+<td colspan="2">
   <img src="https://img.shields.io/badge/PROJECT_03-QUEUE_MANAGEMENT_SYSTEM-8957E5?style=for-the-badge" alt="Project 03 Queue Management"/>
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+
+<td width="44%" valign="middle" align="center">
+
+<img
+src="https://raw.githubusercontent.com/anulmethnula/anulmethnula/main/qr.png"
+width="96%"
+alt="Queue Management System"
+/>
+
+</td>
+
+<td width="56%" valign="top">
 
 <h3>Queue Management System</h3>
 
@@ -431,21 +448,11 @@ A queue-management concept focused on improving <strong>customer flow,
 ticket handling, staff operations and service efficiency</strong>.
 </p>
 
-<table width="100%">
-<tr>
-<td align="center"><strong>Customer</strong></td>
-<td align="center">→</td>
-<td align="center"><strong>Take Ticket</strong></td>
-<td align="center">→</td>
-<td align="center"><strong>Join Queue</strong></td>
-<td align="center">→</td>
-<td align="center"><strong>Staff Service</strong></td>
-<td align="center">→</td>
-<td align="center"><strong>Complete</strong></td>
-</tr>
-</table>
+<p><strong>Process Flow</strong></p>
 
-<br/>
+<p>
+Customer → Take Ticket → Join Queue → Staff Service → Complete
+</p>
 
 <p><strong>My role in the project</strong></p>
 
@@ -534,7 +541,13 @@ Education
 <table width="100%">
 <tr>
 <td width="17%" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/01-DEGREE-2F81F7?style=for-the-badge"/>
+  <img
+    src="https://raw.githubusercontent.com/anulmethnula/anulmethnula/main/nibm%20logo.png"
+    width="105"
+    alt="NIBM Logo"
+  />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/01-DEGREE-2F81F7?style=flat-square"/>
 </td>
 <td width="83%" valign="top">
 
@@ -561,7 +574,13 @@ Cloud Security &amp; Compliance · Operational Research · Digital Marketing
 <table width="100%">
 <tr>
 <td width="17%" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/02-HND-8957E5?style=for-the-badge"/>
+  <img
+    src="https://raw.githubusercontent.com/anulmethnula/anulmethnula/main/nibm%20logo.png"
+    width="105"
+    alt="NIBM Logo"
+  />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/02-HND-8957E5?style=flat-square"/>
 </td>
 <td width="83%" valign="top">
 
@@ -587,7 +606,13 @@ Advanced Database Management
 <table width="100%">
 <tr>
 <td width="17%" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/03-DIPLOMA-238636?style=for-the-badge"/>
+  <img
+    src="https://raw.githubusercontent.com/anulmethnula/anulmethnula/main/nibm%20logo.png"
+    width="105"
+    alt="NIBM Logo"
+  />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/03-DIPLOMA-238636?style=flat-square"/>
 </td>
 <td width="83%" valign="top">
 
