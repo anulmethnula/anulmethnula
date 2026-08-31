@@ -1,644 +1,167 @@
-<svg width="1200" height="400" viewBox="0 0 1200 400"
-fill="none" xmlns="http://www.w3.org/2000/svg"
-role="img" aria-labelledby="title desc">
-
-<title id="title">Anul Methnula Business Analyst Profile Banner</title>
-<desc id="desc">
-Animated cyber-style GitHub banner for Anul Methnula,
-focused on Business Analysis, Project Management and Information Systems.
-</desc>
-
-<defs>
-
-<!-- Background -->
-<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400"
-gradientUnits="userSpaceOnUse">
-<stop stop-color="#050816"/>
-<stop offset=".48" stop-color="#0A1230"/>
-<stop offset="1" stop-color="#071A31"/>
-</linearGradient>
-
-<!-- Neon Accent -->
-<linearGradient id="accent" x1="100" y1="40"
-x2="1110" y2="360" gradientUnits="userSpaceOnUse">
-<stop stop-color="#22D3EE"/>
-<stop offset=".48" stop-color="#60A5FA"/>
-<stop offset="1" stop-color="#A855F7"/>
-</linearGradient>
-
-<!-- Cyan Glow -->
-<radialGradient id="glowC" cx="0" cy="0" r="1"
-gradientTransform="translate(965 172) rotate(160) scale(300 220)"
-gradientUnits="userSpaceOnUse">
-<stop stop-color="#22D3EE" stop-opacity=".26"/>
-<stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-</radialGradient>
-
-<!-- Purple Glow -->
-<radialGradient id="glowP" cx="0" cy="0" r="1"
-gradientTransform="translate(790 330) rotate(10) scale(330 190)"
-gradientUnits="userSpaceOnUse">
-<stop stop-color="#A855F7" stop-opacity=".18"/>
-<stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
-</radialGradient>
-
-<!-- Grid -->
-<pattern id="grid" width="34" height="34"
-patternUnits="userSpaceOnUse">
-<path d="M34 0H0V34"
-fill="none"
-stroke="#8BD5FF"
-stroke-opacity=".065"/>
-</pattern>
-
-<!-- Glow -->
-<filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
-<feGaussianBlur stdDeviation="7" result="b"/>
-<feMerge>
-<feMergeNode in="b"/>
-<feMergeNode in="SourceGraphic"/>
-</feMerge>
-</filter>
-
-<!-- Clip -->
-<clipPath id="panelClip">
-<rect x="22" y="22" width="1156" height="356" rx="24"/>
-</clipPath>
-
-<style>
-
-.mono{
-font-family:Consolas,"Courier New",monospace
-}
-
-.sans{
-font-family:"Segoe UI",Arial,sans-serif
-}
-
-.pulse{
-animation:pulse 2.4s ease-in-out infinite;
-transform-box:fill-box;
-transform-origin:center
-}
-
-.pulse2{
-animation:pulse 2.4s ease-in-out .7s infinite;
-transform-box:fill-box;
-transform-origin:center
-}
-
-.floatA{
-animation:floatA 5.8s ease-in-out infinite
-}
-
-.floatB{
-animation:floatB 6.8s ease-in-out infinite
-}
-
-.dash{
-stroke-dasharray:12 16;
-animation:dash 13s linear infinite
-}
-
-.scan{
-animation:scan 5.8s linear infinite
-}
-
-.blink{
-animation:blink 1.1s steps(2,end) infinite
-}
-
-.bar1{
-animation:bar 3.8s ease-in-out infinite;
-transform-box:fill-box;
-transform-origin:left center
-}
-
-.bar2{
-animation:bar 4.6s ease-in-out .4s infinite;
-transform-box:fill-box;
-transform-origin:left center
-}
-
-.bar3{
-animation:bar 4.2s ease-in-out .8s infinite;
-transform-box:fill-box;
-transform-origin:left center
-}
-
-@keyframes pulse{
-0%,100%{opacity:.45;transform:scale(.82)}
-50%{opacity:1;transform:scale(1.18)}
-}
-
-@keyframes floatA{
-0%,100%{transform:translateY(0)}
-50%{transform:translateY(-10px)}
-}
-
-@keyframes floatB{
-0%,100%{transform:translate(0,0)}
-50%{transform:translate(7px,-8px)}
-}
-
-@keyframes dash{
-to{stroke-dashoffset:-280}
-}
-
-@keyframes scan{
-0%{transform:translateX(-360px);opacity:0}
-12%{opacity:.55}
-88%{opacity:.55}
-100%{transform:translateX(1290px);opacity:0}
-}
-
-@keyframes blink{
-50%{opacity:0}
-}
-
-@keyframes bar{
-0%,100%{transform:scaleX(.45)}
-50%{transform:scaleX(1)}
-}
-
-@media (prefers-reduced-motion:reduce){
-*{animation:none!important}
-}
-
-</style>
-
-</defs>
-
-
-<!-- ================= BACKGROUND ================= -->
-
-<rect x="1" y="1"
-width="1198"
-height="398"
-rx="30"
-fill="url(#bg)"
-stroke="#263665"
-stroke-width="2"/>
-
-<rect x="22" y="22"
-width="1156"
-height="356"
-rx="24"
-fill="url(#grid)"/>
-
-<rect x="22" y="22"
-width="1156"
-height="356"
-rx="24"
-fill="url(#glowC)"/>
-
-<rect x="22" y="22"
-width="1156"
-height="356"
-rx="24"
-fill="url(#glowP)"/>
-
-
-<!-- ================= SCAN ================= -->
-
-<g clip-path="url(#panelClip)">
-<rect x="-330"
-y="0"
-width="330"
-height="400"
-fill="url(#accent)"
-opacity=".07"
-class="scan"/>
-</g>
-
-
-<!-- ================= TOP BAR ================= -->
-
-<path d="M42 86H1158"
-stroke="#263665"
-stroke-opacity=".72"/>
-
-<circle cx="58" cy="54" r="5"
-fill="#22D3EE"/>
-
-<circle cx="78" cy="54" r="5"
-fill="#60A5FA"
-fill-opacity=".72"/>
-
-<circle cx="98" cy="54" r="5"
-fill="#A855F7"
-fill-opacity=".7"/>
-
-<text x="120" y="59"
-fill="#91A8CE"
-font-size="13"
-letter-spacing="2.2"
-class="mono">
-
-PROFILE://ANUL.METHNULA
-
-</text>
-
-
-<!-- WORK STATUS -->
-
-<circle cx="1080" cy="54"
-r="5"
-fill="#34D399"
-class="pulse"/>
-
-<text x="1065" y="59"
-fill="#5EEAD4"
-font-size="12"
-text-anchor="end"
-class="mono">
-
-WORKING @ SUPUN GROUP
-
-</text>
-
-
-<!-- ================= MAIN ================= -->
-
-<g transform="translate(66 126)">
-
-<!-- Greeting -->
-
-<text x="0"
-y="0"
-fill="#22D3EE"
-font-size="14"
-letter-spacing="5"
-class="mono">
-
-HELLO, DIGITAL UNIVERSE
-
-</text>
-
-
-<!-- Name -->
-
-<text x="0"
-y="66"
-fill="#F8FAFC"
-font-size="58"
-font-weight="800"
-letter-spacing=".8"
-class="sans">
-
-ANUL METHNULA
-
-</text>
-
-
-<!-- Career -->
-
-<text x="0"
-y="108"
-fill="#B9C9E7"
-font-size="18"
-font-weight="700"
-letter-spacing="1.2"
-class="sans">
-
-BUSINESS ANALYSIS • PROJECT MANAGEMENT • INFORMATION SYSTEMS
-
-</text>
-
-
-<!-- ================= SKILLS ================= -->
-
-<g transform="translate(0 140)">
-
-
-<!-- Business Analysis -->
-
-<rect width="150"
-height="36"
-rx="18"
-fill="#061F32"
-stroke="#22D3EE"/>
-
-<text x="75"
-y="23"
-text-anchor="middle"
-fill="#67E8F9"
-font-size="11"
-font-weight="700"
-class="sans">
-
-BUSINESS ANALYSIS
-
-</text>
-
-
-<!-- Project Management -->
-
-<rect x="162"
-width="166"
-height="36"
-rx="18"
-fill="#23143C"
-stroke="#A855F7"/>
-
-<text x="245"
-y="23"
-text-anchor="middle"
-fill="#D8B4FE"
-font-size="11"
-font-weight="700"
-class="sans">
-
-PROJECT MANAGEMENT
-
-</text>
-
-
-<!-- Agile -->
-
-<rect x="340"
-width="92"
-height="36"
-rx="18"
-fill="#082B31"
-stroke="#2DD4BF"/>
-
-<text x="386"
-y="23"
-text-anchor="middle"
-fill="#5EEAD4"
-font-size="12"
-font-weight="700"
-class="sans">
-
-AGILE
-
-</text>
-
-
-<!-- Requirements -->
-
-<rect x="444"
-width="122"
-height="36"
-rx="18"
-fill="#34131F"
-stroke="#FB7185"/>
-
-<text x="505"
-y="23"
-text-anchor="middle"
-fill="#FDA4AF"
-font-size="11"
-font-weight="700"
-class="sans">
-
-REQUIREMENTS
-
-</text>
-
-</g>
-
-
-<!-- ================= STATUS ================= -->
-
-<g transform="translate(0 210)">
-
-<circle cx="5"
-cy="0"
-r="5"
-fill="#34D399"
-class="pulse"/>
-
-<text x="20"
-y="5"
-fill="#8EA6CF"
-font-size="13"
-class="mono">
-
-status: turning business needs into digital solutions
-
-</text>
-
-<rect x="500"
-y="-10"
-width="8"
-height="18"
-rx="1"
-fill="#22D3EE"
-class="blink"/>
-
-</g>
-
-</g>
-
-
-<!-- ================= HEXAGON ================= -->
-
-<g transform="translate(824 106)">
-
-<path d="M138 0L250 65V195L138 260L26 195V65L138 0Z"
-fill="#0B1736"
-stroke="url(#accent)"
-stroke-width="3"
-filter="url(#glow)"/>
-
-<path d="M138 18L234 74V186L138 242L42 186V74L138 18Z"
-fill="#08132E"
-stroke="#2B4070"/>
-
-<circle cx="138"
-cy="130"
-r="82"
-fill="none"
-stroke="url(#accent)"
-stroke-width="2.5"
-class="dash"/>
-
-<circle cx="138"
-cy="130"
-r="58"
-fill="#07152B"
-stroke="#334879"/>
-
-
-<!-- Center -->
-
-<text x="138"
-y="116"
-text-anchor="middle"
-fill="#67E8F9"
-font-size="17"
-font-weight="800"
-class="sans">
-
-BUSINESS
-
-</text>
-
-<text x="138"
-y="139"
-text-anchor="middle"
-fill="#C4B5FD"
-font-size="13"
-letter-spacing="1.8"
-class="mono">
-
-ANALYST
-
-</text>
-
-<text x="138"
-y="160"
-text-anchor="middle"
-fill="#7DD3FC"
-font-size="10"
-letter-spacing="1.3"
-class="mono">
-
-BA • PM • AGILE
-
-</text>
-
-
-<!-- Nodes -->
-
-<circle cx="138"
-cy="31"
-r="7"
-fill="#22D3EE"
-class="pulse"/>
-
-<circle cx="230"
-cy="135"
-r="6"
-fill="#A855F7"
-class="pulse2"/>
-
-<circle cx="53"
-cy="182"
-r="5"
-fill="#34D399"
-class="pulse"/>
-
-</g>
-
-
-<!-- ================= SKILLS CARD ================= -->
-
-<g class="floatA">
-
-<rect x="995"
-y="82"
-width="142"
-height="64"
-rx="15"
-fill="#0A1730"
-stroke="#334879"/>
-
-<text x="1012"
-y="104"
-fill="#7DD3FC"
-font-size="10"
-letter-spacing="1.4"
-class="mono">
-
-CORE SKILLS
-
-</text>
-
-<rect x="1012"
-y="117"
-width="92"
-height="4"
-rx="2"
-fill="#22D3EE"
-class="bar1"/>
-
-<rect x="1012"
-y="128"
-width="72"
-height="4"
-rx="2"
-fill="#60A5FA"
-class="bar2"/>
-
-<rect x="1012"
-y="139"
-width="105"
-height="4"
-rx="2"
-fill="#A855F7"
-class="bar3"/>
-
-</g>
-
-
-<!-- ================= CURRENT WORK ================= -->
-
-<g class="floatB">
-
-<rect x="742"
-y="297"
-width="145"
-height="58"
-rx="15"
-fill="#0A1730"
-stroke="#334879"/>
-
-<text x="758"
-y="320"
-fill="#C4B5FD"
-font-size="10"
-letter-spacing="1.2"
-class="mono">
-
-CURRENT WORK
-
-</text>
-
-<text x="758"
-y="342"
-fill="#34D399"
-font-size="11"
-font-weight="700"
-class="mono">
-
-● SUPUN GROUP
-
-</text>
-
-</g>
-
-
-<!-- ================= FOOTER ================= -->
-
-<text x="60"
-y="380"
-fill="#64748b"
-font-family="monospace"
-font-size="12"
-letter-spacing="2">
-
-TURNING BUSINESS PROBLEMS INTO DIGITAL SOLUTIONS
-
-</text>
-
-
-<!-- Animated Dot -->
-
-<circle cx="1110"
-cy="355"
-r="4"
-fill="#00d9ff"
-filter="url(#glow)">
-
-<animate
-attributeName="opacity"
-values="1;0.2;1"
-dur="1.5s"
-repeatCount="indefinite"/>
-
-</circle>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Anul Methnula — Business Analysis and Project Management</title>
+  <desc id="desc">Dark animated GitHub profile banner focused on business analysis, project management, Agile, requirements, stakeholders and digital transformation.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070A0F"/>
+      <stop offset="0.55" stop-color="#0B111A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.52" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <linearGradient id="progress" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#64748B" stroke-opacity="0.06"/>
+    </pattern>
+
+  </defs>
+
+  <!-- Background -->
+  <rect x="1" y="1" width="1198" height="398" rx="28" fill="url(#bg)" stroke="#263241" stroke-width="2"/>
+  <rect x="22" y="22" width="1156" height="356" rx="24" fill="url(#grid)"/>
+
+  <!-- subtle moving glow -->
+  <circle cx="980" cy="95" r="130" fill="#2DD4BF" opacity="0.05">
+    <animate attributeName="opacity" values="0.03;0.08;0.03" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="330" r="170" fill="#8B5CF6" opacity="0.04">
+    <animate attributeName="opacity" values="0.02;0.07;0.02" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Top bar -->
+  <circle cx="58" cy="54" r="5" fill="#2DD4BF"/>
+  <circle cx="78" cy="54" r="5" fill="#3B82F6"/>
+  <circle cx="98" cy="54" r="5" fill="#8B5CF6"/>
+  <text x="122" y="59" fill="#94A3B8" font-size="12" font-family="Consolas, monospace" letter-spacing="2">PROFILE://ANUL.METHNULA</text>
+  <text x="1090" y="59" fill="#94A3B8" font-size="11" font-family="Consolas, monospace" text-anchor="end">PROJECT MODE</text>
+  <circle cx="1110" cy="55" r="5" fill="#22C55E">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1122" y="59" fill="#86EFAC" font-size="11" font-family="Consolas, monospace">ACTIVE</text>
+  <path d="M42 85H1158" stroke="#263241" stroke-opacity="0.85"/>
+
+  <!-- Left content -->
+  <g transform="translate(62 120)">
+    <text x="0" y="0" fill="#2DD4BF" font-size="13" font-family="Consolas, monospace" letter-spacing="4">FROM BUSINESS NEED TO DELIVERED VALUE</text>
+
+    <text x="0" y="66" fill="#F8FAFC" font-size="56" font-weight="800" font-family="Segoe UI, Arial, sans-serif">ANUL METHNULA</text>
+
+    <text x="0" y="103" fill="#B8C4D6" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif" letter-spacing="1">BUSINESS ANALYSIS • PROJECT MANAGEMENT</text>
+
+    <text x="0" y="126" fill="#7F8EA3" font-size="12" font-weight="600" font-family="Consolas, monospace" letter-spacing="2">AGILE • PROCESS IMPROVEMENT • DIGITAL TRANSFORMATION</text>
+
+    <!-- skill chips -->
+    <g transform="translate(0 150)">
+      <rect x="0" y="0" width="126" height="34" rx="17" fill="#082923" stroke="#2DD4BF"/>
+      <text x="63" y="22" text-anchor="middle" fill="#5EEAD4" font-size="11" font-weight="700" font-family="Segoe UI, Arial, sans-serif">REQUIREMENTS</text>
+
+      <rect x="138" y="0" width="118" height="34" rx="17" fill="#101E38" stroke="#3B82F6"/>
+      <text x="197" y="22" text-anchor="middle" fill="#93C5FD" font-size="11" font-weight="700" font-family="Segoe UI, Arial, sans-serif">STAKEHOLDERS</text>
+
+      <rect x="268" y="0" width="92" height="34" rx="17" fill="#211633" stroke="#8B5CF6"/>
+      <text x="314" y="22" text-anchor="middle" fill="#C4B5FD" font-size="11" font-weight="700" font-family="Segoe UI, Arial, sans-serif">AGILE</text>
+
+      <rect x="372" y="0" width="92" height="34" rx="17" fill="#31200D" stroke="#F59E0B"/>
+      <text x="418" y="22" text-anchor="middle" fill="#FCD34D" font-size="11" font-weight="700" font-family="Segoe UI, Arial, sans-serif">BPMN</text>
+    </g>
+
+    <g transform="translate(0 222)">
+      <circle cx="5" cy="0" r="5" fill="#22C55E">
+        <animate attributeName="opacity" values="0.45;1;0.45" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="20" y="5" fill="#91A4BD" font-size="12.5" font-family="Consolas, monospace">clarity • coordination • delivery • improvement</text>
+      <rect x="333" y="-10" width="7" height="18" rx="1" fill="#2DD4BF">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- Right project dashboard -->
+  <g transform="translate(748 105)">
+    <rect x="0" y="0" width="390" height="238" rx="22" fill="#0D141D" stroke="#334155"/>
+
+    <text x="24" y="31" fill="#E2E8F0" font-size="14" font-weight="700" font-family="Segoe UI, Arial, sans-serif">PROJECT DELIVERY BOARD</text>
+    <text x="24" y="51" fill="#64748B" font-size="9.5" font-family="Consolas, monospace" letter-spacing="1">BA + PM WORKFLOW</text>
+
+    <!-- lifecycle -->
+    <line x1="50" y1="92" x2="330" y2="92" stroke="#334155" stroke-width="3"/>
+    <line x1="50" y1="92" x2="330" y2="92" stroke="url(#accent)" stroke-width="3" stroke-dasharray="8 12">
+      <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="8s" repeatCount="indefinite"/>
+    </line>
+
+    <circle cx="50" cy="92" r="14" fill="#082923" stroke="#2DD4BF"/>
+    <text x="50" y="96" text-anchor="middle" fill="#5EEAD4" font-size="10" font-weight="700" font-family="Segoe UI, Arial, sans-serif">01</text>
+    <text x="50" y="119" text-anchor="middle" fill="#94A3B8" font-size="8.5" font-family="Segoe UI, Arial, sans-serif">DISCOVER</text>
+
+    <circle cx="143" cy="92" r="14" fill="#101E38" stroke="#3B82F6"/>
+    <text x="143" y="96" text-anchor="middle" fill="#93C5FD" font-size="10" font-weight="700" font-family="Segoe UI, Arial, sans-serif">02</text>
+    <text x="143" y="119" text-anchor="middle" fill="#94A3B8" font-size="8.5" font-family="Segoe UI, Arial, sans-serif">DEFINE</text>
+
+    <circle cx="236" cy="92" r="14" fill="#211633" stroke="#8B5CF6"/>
+    <text x="236" y="96" text-anchor="middle" fill="#C4B5FD" font-size="10" font-weight="700" font-family="Segoe UI, Arial, sans-serif">03</text>
+    <text x="236" y="119" text-anchor="middle" fill="#94A3B8" font-size="8.5" font-family="Segoe UI, Arial, sans-serif">PLAN</text>
+
+    <circle cx="330" cy="92" r="14" fill="#142314" stroke="#22C55E"/>
+    <text x="330" y="96" text-anchor="middle" fill="#86EFAC" font-size="10" font-weight="700" font-family="Segoe UI, Arial, sans-serif">04</text>
+    <text x="330" y="119" text-anchor="middle" fill="#94A3B8" font-size="8.5" font-family="Segoe UI, Arial, sans-serif">DELIVER</text>
+
+    <!-- moving active dot -->
+    <circle cx="50" cy="92" r="4" fill="#FFFFFF">
+      <animate attributeName="cx" values="50;143;236;330;50" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#2DD4BF;#3B82F6;#8B5CF6;#22C55E;#2DD4BF" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- status bars -->
+    <text x="24" y="156" fill="#64748B" font-size="9.5" font-family="Consolas, monospace" letter-spacing="1">DELIVERY SIGNALS</text>
+
+    <text x="24" y="181" fill="#CBD5E1" font-size="10" font-family="Segoe UI, Arial, sans-serif">Requirements</text>
+    <rect x="105" y="173" width="118" height="7" rx="3.5" fill="#1E293B"/>
+    <rect x="105" y="173" width="104" height="7" rx="3.5" fill="url(#progress)">
+      <animate attributeName="width" values="82;104;92;104" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="238" y="181" fill="#5EEAD4" font-size="9" font-family="Consolas, monospace">CLEAR</text>
+
+    <text x="24" y="204" fill="#CBD5E1" font-size="10" font-family="Segoe UI, Arial, sans-serif">Stakeholders</text>
+    <rect x="105" y="196" width="118" height="7" rx="3.5" fill="#1E293B"/>
+    <rect x="105" y="196" width="96" height="7" rx="3.5" fill="#8B5CF6">
+      <animate attributeName="width" values="78;96;88;96" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="238" y="204" fill="#C4B5FD" font-size="9" font-family="Consolas, monospace">ALIGNED</text>
+
+    <text x="24" y="227" fill="#CBD5E1" font-size="10" font-family="Segoe UI, Arial, sans-serif">Project Health</text>
+    <circle cx="111" cy="223" r="5" fill="#22C55E">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="123" y="227" fill="#86EFAC" font-size="9.5" font-weight="700" font-family="Consolas, monospace">ON TRACK</text>
+  </g>
+
+  <!-- floating mini cards -->
+  <g transform="translate(708 310)">
+    <animateTransform attributeName="transform" type="translate" values="708 310;708 304;708 310" dur="5s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="158" height="52" rx="14" fill="#0D141D" stroke="#334155"/>
+    <text x="16" y="19" fill="#64748B" font-size="9" font-family="Consolas, monospace" letter-spacing="1">STAKEHOLDER MAP</text>
+    <circle cx="22" cy="36" r="4.5" fill="#2DD4BF"/>
+    <circle cx="38" cy="36" r="4.5" fill="#3B82F6"/>
+    <circle cx="54" cy="36" r="4.5" fill="#8B5CF6"/>
+    <circle cx="70" cy="36" r="4.5" fill="#F59E0B"/>
+    <text x="87" y="40" fill="#CBD5E1" font-size="9.5" font-weight="700" font-family="Segoe UI, Arial, sans-serif">CONNECTED</text>
+  </g>
+
+  <g transform="translate(1002 310)">
+    <animateTransform attributeName="transform" type="translate" values="1002 310;1007 304;1002 310" dur="6.5s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="148" height="52" rx="14" fill="#0D141D" stroke="#334155"/>
+    <text x="16" y="19" fill="#64748B" font-size="9" font-family="Consolas, monospace" letter-spacing="1">NEXT MILESTONE</text>
+    <text x="16" y="39" fill="#FCD34D" font-size="10" font-weight="700" font-family="Consolas, monospace">UAT → GO LIVE</text>
+  </g>
 </svg>
