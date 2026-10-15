@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-labelledby="title desc">
+  <title id="title">Anul Methnula — Business Analysis, Project Management and Digital Delivery</title>
+  <desc id="desc">Premium dark GitHub profile banner highlighting business analysis, project management, requirements, stakeholder alignment and digital solution delivery.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="440" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.48" stop-color="#0A1830"/>
+      <stop offset="1" stop-color="#21103E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1728"/>
+      <stop offset="1" stop-color="#12152D"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94A3B8" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+
+  <rect width="1400" height="440" rx="30" fill="url(#bg)"/>
+  <rect x="22" y="22" width="1356" height="396" rx="24" fill="url(#grid)"/>
+  <circle cx="1170" cy="85" r="190" fill="#7C3AED" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="1280" cy="350" r="180" fill="#06B6D4" opacity="0.08" filter="url(#glow)"/>
+
+  <g transform="translate(62 52)">
+    <circle cx="0" cy="0" r="5" fill="#22D3EE"/>
+    <circle cx="20" cy="0" r="5" fill="#3B82F6"/>
+    <circle cx="40" cy="0" r="5" fill="#8B5CF6"/>
+    <text x="66" y="5" fill="#8EA0B8" font-size="12" font-family="Consolas, monospace" letter-spacing="2">PROFILE://ANUL.METHNULA</text>
+    <text x="1260" y="5" fill="#86EFAC" font-size="11" font-family="Consolas, monospace" text-anchor="end">● OPEN TO OPPORTUNITIES</text>
+  </g>
+  <path d="M48 82H1352" stroke="#334155" stroke-opacity=".6"/>
+
+  <g transform="translate(64 128)">
+    <text x="0" y="0" fill="#67E8F9" font-size="14" font-family="Consolas, monospace" letter-spacing="4">BUSINESS NEED → CLEAR PLAN → DIGITAL VALUE</text>
+    <text x="0" y="70" fill="#F8FAFC" font-size="64" font-weight="800" font-family="Segoe UI, Arial, sans-serif">ANUL METHNULA</text>
+    <text x="0" y="112" fill="#C9D4E5" font-size="23" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Business Analysis • Project Management • Digital Solution Delivery</text>
+    <text x="0" y="148" fill="#93A4BA" font-size="16" font-family="Segoe UI, Arial, sans-serif">Turning unclear business problems into requirements, workflows and usable systems.</text>
+
+    <g transform="translate(0 182)" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">
+      <rect x="0" y="0" width="132" height="36" rx="18" fill="#082A31" stroke="#22D3EE"/><text x="66" y="23" text-anchor="middle" fill="#A5F3FC">REQUIREMENTS</text>
+      <rect x="144" y="0" width="130" height="36" rx="18" fill="#0E2043" stroke="#3B82F6"/><text x="209" y="23" text-anchor="middle" fill="#BFDBFE">STAKEHOLDERS</text>
+      <rect x="286" y="0" width="100" height="36" rx="18" fill="#20153B" stroke="#8B5CF6"/><text x="336" y="23" text-anchor="middle" fill="#DDD6FE">AGILE</text>
+      <rect x="398" y="0" width="92" height="36" rx="18" fill="#2A1D0A" stroke="#F59E0B"/><text x="444" y="23" text-anchor="middle" fill="#FDE68A">BPMN</text>
+      <rect x="502" y="0" width="120" height="36" rx="18" fill="#10261F" stroke="#22C55E"/><text x="562" y="23" text-anchor="middle" fill="#BBF7D0">DELIVERY</text>
+    </g>
+  </g>
+
+  <g transform="translate(930 112)">
+    <rect width="398" height="260" rx="24" fill="url(#card)" stroke="#334155"/>
+    <text x="26" y="36" fill="#F8FAFC" font-size="18" font-weight="800" font-family="Segoe UI, Arial, sans-serif">VALUE DELIVERY BOARD</text>
+    <text x="26" y="57" fill="#718096" font-size="10" font-family="Consolas, monospace" letter-spacing="1.5">BA + PM + DIGITAL EXECUTION</text>
+
+    <g transform="translate(28 86)">
+      <line x1="18" y1="22" x2="306" y2="22" stroke="#334155" stroke-width="3"/>
+      <line x1="18" y1="22" x2="306" y2="22" stroke="url(#accent)" stroke-width="3" stroke-dasharray="10 12">
+        <animate attributeName="stroke-dashoffset" from="0" to="-132" dur="6s" repeatCount="indefinite"/>
+      </line>
+      <g font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#94A3B8" text-anchor="middle">
+        <circle cx="18" cy="22" r="13" fill="#082A31" stroke="#22D3EE"/><text x="18" y="25" fill="#67E8F9" font-weight="700">01</text><text x="18" y="48">DISCOVER</text>
+        <circle cx="114" cy="22" r="13" fill="#0E2043" stroke="#3B82F6"/><text x="114" y="25" fill="#93C5FD" font-weight="700">02</text><text x="114" y="48">DEFINE</text>
+        <circle cx="210" cy="22" r="13" fill="#20153B" stroke="#8B5CF6"/><text x="210" y="25" fill="#C4B5FD" font-weight="700">03</text><text x="210" y="48">ALIGN</text>
+        <circle cx="306" cy="22" r="13" fill="#10261F" stroke="#22C55E"/><text x="306" y="25" fill="#86EFAC" font-weight="700">04</text><text x="306" y="48">DELIVER</text>
+      </g>
+    </g>
+
+    <g transform="translate(28 166)" font-family="Segoe UI, Arial, sans-serif">
+      <text x="0" y="0" fill="#718096" font-size="9" font-family="Consolas, monospace" letter-spacing="1.5">CORE SIGNALS</text>
+      <text x="0" y="28" fill="#CBD5E1" font-size="11">Requirements clarity</text><rect x="122" y="19" width="128" height="7" rx="3.5" fill="#1E293B"/><rect x="122" y="19" width="112" height="7" rx="3.5" fill="#22D3EE"/>
+      <text x="0" y="52" fill="#CBD5E1" font-size="11">Stakeholder alignment</text><rect x="122" y="43" width="128" height="7" rx="3.5" fill="#1E293B"/><rect x="122" y="43" width="105" height="7" rx="3.5" fill="#3B82F6"/>
+      <text x="0" y="76" fill="#CBD5E1" font-size="11">Delivery readiness</text><rect x="122" y="67" width="128" height="7" rx="3.5" fill="#1E293B"/><rect x="122" y="67" width="116" height="7" rx="3.5" fill="#8B5CF6"/>
+      <text x="278" y="52" fill="#86EFAC" font-size="10" font-weight="800">ON TRACK</text>
+    </g>
+  </g>
+</svg>
