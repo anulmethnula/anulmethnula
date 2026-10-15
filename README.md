@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-v2.svg" width="100%" alt="Anul Methnula — Business Analysis, Project Management and Digital Delivery" />
+  <img src="./gaming-banner-animated.svg" width="100%" alt="Anul Methnula — Business Analysis, Project Management and Digital Delivery" />
 </p>
 
 <p align="center">
