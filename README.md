@@ -2,67 +2,66 @@
   <img src="./banner.svg" width="100%" alt="Anul Methnula — Business Analysis & Project Management" />
 </p>
 
+<p align="center">
+  <a href="https://anulmethnula.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/anul-methnula/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anulmethnula@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## Professional Focus
+
+I am an **Information Technology for Business undergraduate** focused on **Business Analysis, Project Management and digital solution delivery**.
+
+I enjoy taking an unclear business problem and turning it into **clear requirements, a practical plan and a solution that people can actually use**.
+
+## What I Bring
+
+| Business Analysis | Project Management | Digital Delivery |
+|---|---|---|
+| Requirements gathering | Project planning | Solution thinking |
+| Stakeholder analysis | Task & milestone tracking | Technical collaboration |
+| Process modelling | Team coordination | UI / workflow understanding |
+| BPMN & UML | Agile & Scrum | Process improvement |
+
+## Featured Projects
+
 <div align="center">
-
-# Hi, I'm Anul 👋
-
-**Project Management • Business Analysis • Digital Transformation**
-
-<a href="https://anulmethnula.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/anul-methnula/">LinkedIn</a> · <a href="mailto:anulmethnula@gmail.com">Email</a>
-
-</div>
-
----
-
-## About Me
-
-I am an **Information Technology for Business undergraduate** focused on turning business problems into clear requirements, practical plans and useful digital solutions.
-
-My main interests are **Project Management, Business Analysis, Agile delivery and process improvement**.
-
-## Current Focus
-
-- Project coordination
-- Requirements gathering
-- Stakeholder communication
-- Business process analysis
-- Agile and Scrum
-- Documentation and planning
-
-## Selected Projects
-
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 <img src="./qr.png" width="100%" alt="QR E-Ticketing System" /><br/>
-<b>QR E-Ticketing System</b><br/>
-Project coordination, requirements and Agile delivery
+<b>QR-Based E-Ticketing</b><br/>
+<sub>Requirements • Agile delivery • Project coordination</sub>
 </td>
-<td width="33%" align="center">
-<img src="./gas.png" width="100%" alt="Gas Delivery System" /><br/>
+<td width="33%" align="center" valign="top">
+<img src="./gas.png" width="100%" alt="Online Gas Delivery System" /><br/>
 <b>Online Gas Delivery</b><br/>
-Business analysis, BPMN and wireframes
+<sub>Business Analysis • BPMN • Wireframes</sub>
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 <img src="./erp.png" width="100%" alt="ERP Project" /><br/>
-<b>ERP Research</b><br/>
-Enterprise systems and digital transformation
+<b>Enterprise Systems</b><br/>
+<sub>ERP research • Process understanding • Digital transformation</sub>
 </td>
 </tr>
 </table>
+</div>
 
-## Tools & Skills
+## Current GitHub Work
 
-`Jira` · `Figma` · `Draw.io` · `MS Project` · `Excel` · `React` · `Node.js` · `Java` · `MySQL` · `Git`
+- [**CAMY Entrepreneurs Digital Platform**](https://github.com/anulmethnula/CAMY-Entrepreneurs-DIGITAL-PLATFORM) — COD orders, payouts, stock and entrepreneur credit operations
+- [**Supun ERP**](https://github.com/anulmethnula/Supun-ERP) — purchasing, inventory, sales and receivables workflow
+- [**Supun Feedback System**](https://github.com/anulmethnula/feedback-system) — QR guest feedback, secure admin management and mobile support
+- [**ZEVENRA Website**](https://github.com/anulmethnula/zevenra-website) — fashion commerce, checkout, pre-orders and admin operations
 
-## What I Enjoy
+## Tools
 
-```text
-Understand the problem → Define the need → Plan clearly → Support delivery → Improve the result
-```
+`Jira` · `MS Project` · `Figma` · `Draw.io` · `Excel` · `React` · `MySQL` · `Git` · `GitHub`
+
+## How I Work
+
+`Understand the problem` → `Define what matters` → `Align people` → `Support delivery` → `Improve the result`
 
 ---
 
-<div align="center">
-  <b>Building better systems through clear thinking and good coordination.</b>
-</div>
+<p align="center"><b>Open to opportunities where business understanding and delivery need to work together.</b></p>
