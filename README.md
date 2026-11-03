@@ -24,7 +24,7 @@ I turn unclear business needs into **clear requirements, practical workflows, co
 <sub>COD • stock • payouts • entrepreneur credit</sub>
 </td>
 <td width="50%" align="center" valign="top">
-<a href="https://github.com/anulmethnula/zevenra-website"><img src="https://raw.githubusercontent.com/anulmethnula/zevenra-website/main/public/brand/hero.jpg" width="100%" alt="ZEVENRA Commerce Platform" /></a><br/>
+<a href="https://www.zevenra.com/"><img src="./readme-zevenra.svg" width="100%" alt="ZEVENRA Commerce Platform" /></a><br/>
 <b>ZEVENRA Commerce Platform</b><br/>
 <sub>Storefront • checkout • pre-orders • admin operations</sub>
 </td>
@@ -44,7 +44,7 @@ I turn unclear business needs into **clear requirements, practical workflows, co
 </table>
 
 <p align="center">
-  <a href="https://zevenra-website.vercel.app"><img src="https://img.shields.io/badge/LIVE-ZEVENRA-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="ZEVENRA Live Demo" /></a>
+  <a href="https://www.zevenra.com/"><img src="https://img.shields.io/badge/LIVE-ZEVENRA-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="ZEVENRA Live Demo" /></a>
   <a href="https://camy-event-comformation.vercel.app"><img src="https://img.shields.io/badge/LIVE-CAMY_EVENT-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="CAMY Event Live Demo" /></a>
 </p>
 
