@@ -1,0 +1,57 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#140D10"/>
+      <stop offset="0.55" stop-color="#2A111A"/>
+      <stop offset="1" stop-color="#451A2A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F4D6C9"/>
+      <stop offset="1" stop-color="#C9858F"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1100" cy="-20" r="220" fill="#8B3F55" fill-opacity="0.16"/>
+  <circle cx="80" cy="410" r="180" fill="#D8A29D" fill-opacity="0.08"/>
+
+  <text x="58" y="66" fill="#F3E9E5" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">ZEVENRA</text>
+  <text x="58" y="112" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">COMMERCE PLATFORM</text>
+  <text x="58" y="142" fill="#D8B9B4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1">STOREFRONT • CHECKOUT • PRE-ORDERS • ADMIN OPERATIONS</text>
+
+  <g transform="translate(58 188)">
+    <rect width="248" height="142" rx="18" fill="#21151A" stroke="#6C3E4C" stroke-width="1.5"/>
+    <text x="22" y="38" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">01 · STOREFRONT</text>
+    <text x="22" y="72" fill="#F7F1EF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Curated shopping</text>
+    <text x="22" y="98" fill="#BFA8A5" font-family="Arial, Helvetica, sans-serif" font-size="13">Products · categories</text>
+    <text x="22" y="120" fill="#BFA8A5" font-family="Arial, Helvetica, sans-serif" font-size="13">Responsive customer UI</text>
+  </g>
+
+  <g transform="translate(324 188)">
+    <rect width="248" height="142" rx="18" fill="#21151A" stroke="#6C3E4C" stroke-width="1.5"/>
+    <text x="22" y="38" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">02 · CHECKOUT</text>
+    <text x="22" y="72" fill="#F7F1EF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Order flow</text>
+    <text x="22" y="98" fill="#BFA8A5" font-family="Arial, Helvetica, sans-serif" font-size="13">Cart · delivery · payment</text>
+    <text x="22" y="120" fill="#BFA8A5" font-family="Arial, Helvetica, sans-serif" font-size="13">Receipt-based checkout</text>
+  </g>
+
+  <g transform="translate(590 188)">
+    <rect width="248" height="142" rx="18" fill="#21151A" stroke="#6C3E4C" stroke-width="1.5"/>
+    <text x="22" y="38" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">03 · PRE-ORDERS</text>
+    <text x="22" y="72" fill="#F7F1EF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Flexible ordering</text>
+    <text x="22" y="98" fill="#BFA8A5" font-family="Arial, Helvetica, sans-serif" font-size="13">Stock + pre-order items</text>
+    <text x="22" y="120" fill="#BFA8A5" font-family="Arial, Helvetica, sans-serif" font-size="13">Customer-friendly flow</text>
+  </g>
+
+  <g transform="translate(856 188)">
+    <rect width="286" height="142" rx="18" fill="#21151A" stroke="#6C3E4C" stroke-width="1.5"/>
+    <text x="22" y="38" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">04 · ADMIN</text>
+    <text x="22" y="72" fill="#F7F1EF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Commerce operations</text>
+    <text x="22" y="98" fill="#BFA8A5" font-family="Arial, Helvetica, sans-serif" font-size="13">Products · orders · inventory</text>
+    <text x="22" y="120" fill="#BFA8A5" font-family="Arial, Helvetica, sans-serif" font-size="13">Operational control</text>
+  </g>
+
+  <line x1="58" y1="366" x2="1142" y2="366" stroke="#6C3E4C" stroke-opacity="0.65"/>
+  <text x="58" y="396" fill="#C9AAA7" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">FASHION • COMMERCE • DIGITAL OPERATIONS</text>
+  <text x="1142" y="396" fill="#E6C7C1" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12">WEB PLATFORM</text>
+</svg>
