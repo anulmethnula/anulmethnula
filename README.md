@@ -45,6 +45,7 @@ I turn unclear business needs into **clear requirements, practical workflows, co
 
 <p align="center">
   <a href="https://www.zevenra.com/"><img src="https://img.shields.io/badge/LIVE-ZEVENRA-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="ZEVENRA Live Demo" /></a>
+  <a href="https://camymarket.com/"><img src="https://img.shields.io/badge/PLATFORM-CAMY_MARKET-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit CAMY Market" /></a>
   <a href="https://camy-event-comformation.vercel.app"><img src="https://img.shields.io/badge/LIVE-CAMY_EVENT-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="CAMY Event Live Demo" /></a>
 </p>
 
