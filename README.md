@@ -67,8 +67,12 @@ I turn unclear business needs into **clear requirements, practical workflows, co
 
 ## More Work
 
+- [**StockEasy — Stock Management System**](https://github.com/anulmethnula/stock-management-system) — local-first inventory, purchase orders, goods received notes, deliveries and stock tracking
+- [**Anything at Supun — E-commerce Redesign**](https://github.com/anulmethnula/anythingatsupun) — responsive React storefront prototype; WooCommerce integration is still in progress
 - [**CAMY Community Event Registration**](https://github.com/anulmethnula/camy-event-registration) — serverless registration workflow with Google Sheets
-- [**Portfolio Website**](https://github.com/anulmethnula/anul-methnula-portfolio) — visual portfolio for BA, PM and digital delivery work
+- [**Portfolio Website**](https://github.com/anulmethnula/anul-methnula-portfolio) — projects, business analysis, project management and digital delivery work
+
+> **Project note:** Some featured systems are collaborative or in development. Repository documentation describes their current status; individual contributions should be understood from project and commit history.
 
 ---
 
