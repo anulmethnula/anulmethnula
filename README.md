@@ -10,13 +10,15 @@
 
 ## Professional Profile
 
-I am an **Information Technology for Business undergraduate** focused on **Business Analysis, Project Management and digital solution delivery**.
+**Frontend Developer | Business Analysis | Project Management**
 
-I turn unclear business needs into **clear requirements, practical workflows, coordinated delivery and usable systems**.
+I am an Information Technology for Business undergraduate with a growing focus on **frontend development**. I build responsive websites, e-commerce storefronts and business application interfaces using **React, TypeScript, Next.js and Tailwind CSS**.
 
-## Featured Business Systems
+My background in business analysis and project management helps me understand user needs, design practical workflows and turn requirements into usable digital experiences.
 
-Selected projects across business operations, commerce and customer experience.
+## Featured Projects
+
+Selected work covering frontend development, e-commerce, business systems and customer experience.
 
 <table>
 <tr>
@@ -86,7 +88,15 @@ Modern responsive storefront prototype; WooCommerce integration is pending.
 <table>
 <tr>
 <td width="33%" valign="top">
-<b>01 / Business Analysis</b>
+<b>01 / Frontend Development</b>
+<br /><br />
+Responsive web interfaces<br />
+React &amp; TypeScript<br />
+Reusable UI components<br />
+API integration &amp; UI testing
+</td>
+<td width="33%" valign="top">
+<b>02 / Business Analysis</b>
 <br /><br />
 Requirements gathering<br />
 Stakeholder analysis<br />
@@ -94,31 +104,46 @@ Process modelling<br />
 BPMN &amp; UML
 </td>
 <td width="33%" valign="top">
-<b>02 / Project Management</b>
+<b>03 / Project Management</b>
 <br /><br />
 Planning &amp; coordination<br />
 Milestone tracking<br />
 Team communication<br />
 Agile &amp; Scrum
 </td>
-<td width="33%" valign="top">
-<b>03 / Digital Delivery</b>
-<br /><br />
-Solution thinking<br />
-Technical collaboration<br />
-UI &amp; workflow understanding<br />
-Process improvement
-</td>
 </tr>
 </table>
 
 ## How I Work
 
-**Understand the problem** → **Clarify requirements** → **Align people** → **Plan the workflow** → **Support delivery** → **Improve the result**
+**Understand requirements** → **Design the interface** → **Develop** → **Test & refine** → **Deliver**
 
 ## Tools & Platforms
 
-### Planning & Analysis
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+### Backend & Data Exposure
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase" />
+</p>
+
+### Planning & Design
 
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
@@ -128,32 +153,22 @@ Process improvement
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
-### Development & Data
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase" />
-</p>
-
-### Collaboration & Version Control
+### Version Control & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ## More Work
 
 - **[CAMY Community Event Registration](https://github.com/anulmethnula/camy-event-registration)** — serverless event registration with Google Sheets.
 - **[Supun IT Solutions Portfolio](https://github.com/anulmethnula/Supun-IT-Solutions-Portfolio)** — showcase of company projects, technologies and team work.
-- **[Personal Portfolio Website](https://github.com/anulmethnula/anul-methnula-portfolio)** — my BA, PM and digital delivery portfolio.
+- **[Personal Portfolio Website](https://github.com/anulmethnula/anul-methnula-portfolio)** — my frontend, business analysis and project management portfolio.
 
 > **Project transparency:** Supun ERP and Supun Feedback System are collaborative/forked repositories. Anything at Supun is a frontend prototype; its live backend integration is not complete.
 
 ---
 
-<p align="center"><b>Open to opportunities where business understanding, coordination and digital delivery work together.</b></p>
+<p align="center"><b>Open to frontend development opportunities, with a background in business analysis and project coordination.</b></p>
