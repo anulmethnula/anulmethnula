@@ -8,167 +8,181 @@
   <a href="mailto:anulmethnula@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Professional Profile
+## About Me
 
-**Frontend Developer | Business Analysis | Project Management**
+<p align="center"><b>Frontend Developer &nbsp;·&nbsp; Business Analyst &nbsp;·&nbsp; Project Manager</b></p>
 
-I am an Information Technology for Business undergraduate with a growing focus on **frontend development**. I build responsive websites, e-commerce storefronts and business application interfaces using **React, TypeScript, Next.js and Tailwind CSS**.
+I am an IT for Business undergraduate who combines frontend development, business analysis and project coordination. I build responsive digital experiences and translate business needs into practical interfaces and workflows.
 
-My background in business analysis and project management helps me understand user needs, design practical workflows and turn requirements into usable digital experiences.
-
-## Featured Projects
-
-Selected work covering frontend development, e-commerce, business systems and customer experience.
+## Core Expertise
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/anulmethnula/CAMY-Entrepreneurs-DIGITAL-PLATFORM"><img src="https://raw.githubusercontent.com/anulmethnula/CAMY-Entrepreneurs-DIGITAL-PLATFORM/main/readme-operations.svg" width="100%" alt="CAMY entrepreneur operations diagram" /></a>
-<br />
-<b>CAMY Entrepreneurs Digital Platform</b>
-<br />
-Entrepreneur orders, COD fulfilment, stock control, payouts and credit operations.
-<br /><br />
-<a href="https://github.com/anulmethnula/CAMY-Entrepreneurs-DIGITAL-PLATFORM">Repository</a> &nbsp;·&nbsp; <a href="https://camymarket.com/">Live platform</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.zevenra.com/"><img src="./readme-zevenra.svg" width="100%" alt="ZEVENRA commerce platform overview" /></a>
-<br />
-<b>ZEVENRA Commerce Platform</b>
-<br />
-Fashion shopping experience with storefront, checkout, pre-orders and admin workflows.
-<br /><br />
-<a href="https://www.zevenra.com/">Live website</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/anulmethnula/Supun-ERP"><img src="https://raw.githubusercontent.com/anulmethnula/Supun-ERP/main/readme-modules.svg" width="100%" alt="Supun ERP module overview" /></a>
-<br />
-<b>Supun ERP</b>
-<br />
-Purchasing, inventory, sales, customer receipts and receivables in one workflow.
-<br /><br />
-<a href="https://github.com/anulmethnula/Supun-ERP">Collaborative repository</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/anulmethnula/feedback-system"><img src="https://raw.githubusercontent.com/anulmethnula/feedback-system/main/readme-experience.svg" width="100%" alt="Supun feedback management experience" /></a>
-<br />
-<b>Supun Feedback System</b>
-<br />
-QR-based guest feedback, protected admin review and mobile-friendly access.
-<br /><br />
-<a href="https://github.com/anulmethnula/feedback-system">Collaborative repository</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/anulmethnula/stock-management-system"><img src="https://raw.githubusercontent.com/anulmethnula/stock-management-system/main/assets/stockeasy-banner.svg" width="100%" alt="StockEasy stock management workflow" /></a>
-<br />
-<b>StockEasy — Stock Management</b>
-<br />
-Local-first purchasing, GRN, branch stock, deliveries and correction history.
-<br /><br />
-<a href="https://github.com/anulmethnula/stock-management-system">Repository</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/anulmethnula/anythingatsupun"><img src="https://raw.githubusercontent.com/anulmethnula/anythingatsupun/main/readme-banner.svg" width="100%" alt="Anything at Supun storefront redesign overview" /></a>
-<br />
-<b>Anything at Supun — E-commerce Redesign</b>
-<br />
-Modern responsive storefront prototype; WooCommerce integration is pending.
-<br /><br />
-<a href="https://github.com/anulmethnula/anythingatsupun">Frontend prototype</a>
-</td>
-</tr>
-</table>
-
-## What I Bring
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>01 / Frontend Development</b>
-<br /><br />
-Responsive web interfaces<br />
+<td width="33%" align="center" valign="top">
+<b>Frontend Development</b><br /><br />
+Responsive UI<br />
 React &amp; TypeScript<br />
-Reusable UI components<br />
-API integration &amp; UI testing
+Reusable components<br />
+API integration &amp; testing
 </td>
-<td width="33%" valign="top">
-<b>02 / Business Analysis</b>
-<br /><br />
-Requirements gathering<br />
-Stakeholder analysis<br />
+<td width="33%" align="center" valign="top">
+<b>Business Analysis</b><br /><br />
+Requirements &amp; stakeholders<br />
 Process modelling<br />
-BPMN &amp; UML
+BPMN &amp; UML<br />
+Business workflows
 </td>
-<td width="33%" valign="top">
-<b>03 / Project Management</b>
-<br /><br />
+<td width="33%" align="center" valign="top">
+<b>Project Management</b><br /><br />
 Planning &amp; coordination<br />
+Agile &amp; Scrum<br />
 Milestone tracking<br />
-Team communication<br />
-Agile &amp; Scrum
+Team communication
 </td>
 </tr>
 </table>
+
+## Selected Projects
+
+A selection of development and business systems work, covering responsive interfaces, e-commerce and operational workflows.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/anulmethnula/anythingatsupun"><img src="assets/projects/anything-at-supun.svg" width="100%" alt="Anything at Supun — E-COMMERCE FRONTEND" /></a>
+<br />
+Responsive storefront, product browsing and checkout UI.
+<br />
+<sub>Prototype · WooCommerce integration pending</sub>
+<br />
+<a href="https://github.com/anulmethnula/anythingatsupun"><b>Repository</b></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://www.zevenra.com/"><img src="assets/projects/zevenra.svg" width="100%" alt="ZEVENRA — FASHION COMMERCE" /></a>
+<br />
+Fashion storefront, pre-orders and customer checkout.
+<br />
+<sub>Live commerce website</sub>
+<br />
+<a href="https://www.zevenra.com/"><b>Live website</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/anulmethnula/Supun-IT-Solutions-Portfolio"><img src="assets/projects/supun-it.svg" width="100%" alt="Supun IT Solutions — CORPORATE WEBSITE" /></a>
+<br />
+Responsive company portfolio and interactive project showcase.
+<br />
+<sub>Company portfolio</sub>
+<br />
+<a href="https://github.com/anulmethnula/Supun-IT-Solutions-Portfolio"><b>Repository</b></a> &nbsp;·&nbsp; <a href="https://it.supuncompanies.com/"><b>Website</b></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/anulmethnula/CAMY-Entrepreneurs-DIGITAL-PLATFORM"><img src="assets/projects/camy-market.svg" width="100%" alt="CAMY Market — ENTREPRENEUR PLATFORM" /></a>
+<br />
+Order, stock, payout and entrepreneur workflows.
+<br />
+<sub>Business operations</sub>
+<br />
+<a href="https://github.com/anulmethnula/CAMY-Entrepreneurs-DIGITAL-PLATFORM"><b>Repository</b></a> &nbsp;·&nbsp; <a href="https://camymarket.com/"><b>Live platform</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/anulmethnula/stock-management-system"><img src="assets/projects/stockeasy.svg" width="100%" alt="StockEasy — INVENTORY MANAGEMENT" /></a>
+<br />
+Purchase orders, goods received, stock and deliveries.
+<br />
+<sub>Local-first application</sub>
+<br />
+<a href="https://github.com/anulmethnula/stock-management-system"><b>Repository</b></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/anulmethnula/feedback-system"><img src="assets/projects/feedback.svg" width="100%" alt="Supun Feedback — CUSTOMER EXPERIENCE" /></a>
+<br />
+QR feedback forms and administrator review workflows.
+<br />
+<sub>Collaborative project</sub>
+<br />
+<a href="https://github.com/anulmethnula/feedback-system"><b>Collaborative repository</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/anulmethnula/Supun-ERP"><img src="assets/projects/erp.svg" width="100%" alt="Supun ERP — ENTERPRISE WORKFLOWS" /></a>
+<br />
+Purchasing, inventory, sales and receivables workflows.
+<br />
+<sub>Collaborative project</sub>
+<br />
+<a href="https://github.com/anulmethnula/Supun-ERP"><b>Collaborative repository</b></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/anulmethnula/camy-event-registration"><img src="assets/projects/camy-event.svg" width="100%" alt="CAMY Event — EVENT REGISTRATION" /></a>
+<br />
+Event registration, validation and confirmation experience.
+<br />
+<sub>Event registration project</sub>
+<br />
+<a href="https://github.com/anulmethnula/camy-event-registration"><b>Repository</b></a> &nbsp;·&nbsp; <a href="https://camy-event-comformation.vercel.app"><b>Live demo</b></a>
+</td>
+</tr>
+</table>
+
+<sub>Project context: Supun ERP and Supun Feedback are collaborative/forked repositories. Anything at Supun is a frontend prototype, with backend integration pending. Project descriptions summarize system capabilities, not sole authorship.</sub>
 
 ## How I Work
 
-**Understand requirements** → **Design the interface** → **Develop** → **Test & refine** → **Deliver**
+<p align="center"><b>Discover → Analyse → Design → Develop → Test → Deliver</b></p>
 
-## Tools & Platforms
+## Tech Stack & Tools
 
 ### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-### Backend & Data Exposure
+### Backend & Data Familiarity
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" />
 </p>
 
 ### Planning & Design
 
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Project" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoft&logoColor=white" alt="MS Project" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 ### Version Control & Deployment
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ## More Work
 
-- **[CAMY Community Event Registration](https://github.com/anulmethnula/camy-event-registration)** — serverless event registration with Google Sheets.
-- **[Supun IT Solutions Portfolio](https://github.com/anulmethnula/Supun-IT-Solutions-Portfolio)** — showcase of company projects, technologies and team work.
-- **[Personal Portfolio Website](https://github.com/anulmethnula/anul-methnula-portfolio)** — my frontend, business analysis and project management portfolio.
-
-> **Project transparency:** Supun ERP and Supun Feedback System are collaborative/forked repositories. Anything at Supun is a frontend prototype; its live backend integration is not complete.
+[**Personal portfolio**](https://anulmethnula.vercel.app/) · [Portfolio source](https://github.com/anulmethnula/anul-methnula-portfolio) · [All public repositories](https://github.com/anulmethnula?tab=repositories)
 
 ---
 
-<p align="center"><b>Open to frontend development opportunities, with a background in business analysis and project coordination.</b></p>
+<p align="center"><b>Open to Frontend Development, Business Analysis and Project Management opportunities.</b></p>
+<p align="center"><a href="https://www.linkedin.com/in/anul-methnula/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:anulmethnula@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://anulmethnula.vercel.app/">Portfolio</a></p>
