@@ -53,9 +53,9 @@ A selection of development and business systems work, covering responsive interf
 <br />
 Responsive storefront, product browsing and checkout UI.
 <br />
-<sub>Prototype · WooCommerce integration pending</sub>
+<sub>Storefront redesign · Integration in progress</sub>
 <br />
-<a href="https://github.com/anulmethnula/anythingatsupun"><b>Repository</b></a>
+<a href="https://github.com/anulmethnula/anythingatsupun"><b>Repository</b></a> &nbsp;·&nbsp; <a href="https://www.anythingatsupun.lk/"><b>Live website</b></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://www.zevenra.com/"><img src="assets/projects/zevenra.svg" width="100%" alt="ZEVENRA — FASHION COMMERCE" /></a>
@@ -93,9 +93,9 @@ Order, stock, payout and entrepreneur workflows.
 <br />
 Purchase orders, goods received, stock and deliveries.
 <br />
-<sub>Local-first application</sub>
+<sub>Hosted stock management system</sub>
 <br />
-<a href="https://github.com/anulmethnula/stock-management-system"><b>Repository</b></a>
+<a href="https://github.com/anulmethnula/stock-management-system"><b>Repository</b></a> &nbsp;·&nbsp; <a href="https://stock.supuncompanies.com/"><b>Live website</b></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/anulmethnula/feedback-system"><img src="assets/projects/feedback.svg" width="100%" alt="Supun Feedback — CUSTOMER EXPERIENCE" /></a>
@@ -129,7 +129,7 @@ Event registration, validation and confirmation experience.
 </tr>
 </table>
 
-<sub>Project context: Supun ERP and Supun Feedback are collaborative/forked repositories. Anything at Supun is a frontend prototype, with backend integration pending. Project descriptions summarize system capabilities, not sole authorship.</sub>
+<sub>Project context: Supun ERP and Supun Feedback are collaborative/forked repositories. Anything at Supun links to the existing live store; the frontend redesign and backend integration are in progress. Project descriptions summarize system capabilities, not sole authorship.</sub>
 
 ## How I Work
 
